@@ -1,0 +1,847 @@
+￼￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 1 of 10 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:58:23 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of # of Fat Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼51470107 1/11/2007 2129 Thu FLORIDA AVE 12TH ST NW Parked Vehicle Not at Inter 0 0 2 1
+￼￼￼￼54510107 1/12/2007 1430 Fri S CAPITOL ST HALLEY PL BN Straight Hit Ped. Within 100ft 0 1 1 1
+￼￼￼￼59020107 1/13/2007 0950 Sat U ST 16TH ST NW Right Angle Within 100ft 0 1 2 1
+￼￼￼￼60400107 1/13/2007 1955 Sat PENNSYLVANIA AVE 13TH ST NW Rear End Not at Inter 0 0 2 1
+￼￼￼￼62530507 5/1/2007 1806 Tue 31ST ST P ST NW Other At Intersect 0 1 1 1
+￼￼￼￼￼68800107 1/15/2007 1230 Mon MELLON ST
+MARTIN LUTHER KING AVE
+SE Straight Hit Ped. Not at Inter 0 0 1 2
+￼￼￼￼71960107 1/16/2007 0855 Tue C ST 17TH ST NW Other At Intersect 0 1 1 1
+￼￼￼￼78090107 1/17/2007 1435 Wed 13TH ST G ST NW Side Swiped At Intersect 0 1 3 1
+￼￼￼￼87070107 1/19/2007 1357 Fri TRINIDAD AVE MOUNT OLIVET RD NE Other Within 100ft 0 1 1 1
+￼￼￼￼100130107 1/22/2007 0950 Mon FLORIDA AVE 16TH ST NW Left Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼102280107 1/22/2007 1758 Mon RHODE ISLAND AVE SCOTT CIR NW Straight Hit Ped. At Intersect 0 0 2 1
+￼￼￼￼119600107 1/26/2007 1215 Fri HOLMEAD PL PARKWOOD PL NW Right Angle At Intersect 0 0 2 1
+￼￼￼￼133920107 1/29/2007 1633 Mon KENNEDY ST 4TH ST NW Right Angle Within 100ft 0 1 2 1
+￼￼￼￼￼138340107 1/30/2007 1640 Tue R ST
+NEW HAMPSHIRE AVE
+NW Side Swiped Within 100ft 0 0 2 1
+￼￼￼￼196130207 2/12/2007 1700 Mon Q ST 9TH ST NW Right Angle Within 100ft 0 1 1 1
+￼￼￼￼226950207 2/20/2007 1855 Tue 18TH ST R ST NW Rear End Within 100ft 0 1 1 1
+￼￼￼￼231240207 2/21/2007 1640 Wed 16TH ST COLUMBIA RD NW Right Turn Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼245170207 2/24/2007 1440 Sat EAST CAPITOL ST SOUTHERN AVE BN Right Angle At Intersect 0 1 2 1
+￼￼￼￼267880307 3/1/2007 1830 Thu 18TH ST COLUMBIA RD NW Right Angle At Intersect 0 0 2 1
+￼￼￼￼270540207 2/28/2007 0000 Wed 16TH ST BELMONT ST NW Other Not at Inter 0 0 1 1
+￼￼￼￼271790307 3/2/2007 1635 Fri 6TH ST CONSTITUTION AVE NW Left Turn Hit Veh. Within 100ft 0 0 2 1
+￼￼￼￼329160307 3/14/2007 1945 Wed ARKANSAS AVE GEORGIA AVE NW Right Angle At Intersect 0 0 2 1
+￼￼￼￼334570307 3/15/2007 2130 Thu D ST 3RD ST SW Right Angle At Intersect 0 1 2 1
+￼￼￼￼345970307 3/18/2007 1100 Sun 13TH ST K ST NW Right Turn Hit Veh. At Intersect 0 1 1 1
+￼￼￼￼356830307 3/20/2007 1620 Tue M ST 24TH ST NW Other Not at Inter 0 1 2 1
+￼￼￼￼389030307 3/27/2007 0645 Tue SOUTHERN AVE 41ST PL SE Parked Vehicle Not at Inter 0 1 2 1
+￼￼￼￼395620307 3/28/2007 1320 Wed WISCONSIN AVE 34TH ST NW Other Within 100ft 0 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼400050307 3/29/2007 1235 Thu 1ST ST PIERCE ST NW Other Within 100ft 0 1 1 1
+￼￼￼￼￼￼￼￼￼￼￼278 accidents(278 not approved) listed in this query result.
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 2 of 10 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:58:23 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of # of Fat Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼422200407 4/3/2007 0750 Tue BRYANT ST 6TH ST NW Fixed Object Within 100ft 0 1 1 1
+￼￼￼￼434140407 4/5/2007 1745 Thu JEFFERSON DR 12TH ST SW Straight Hit Ped. Not at Inter 0 1 2 1
+￼￼￼￼436870407 4/6/2007 0950 Fri 11TH ST PARK RD NW Right Angle Within 100ft 0 1 2 1
+￼￼￼￼438060407 4/6/2007 1455 Fri 25TH ST WAGNER ST SE Right Turn Hit Veh. At Intersect 0 0 1 1
+￼￼￼￼462030407 4/11/2007 2130 Wed NEW HAMPSHIRE AVE EASTERN AVE NE Right Angle At Intersect 0 0 2 1
+￼￼￼￼465950407 4/12/2007 1700 Thu 8TH ST CONSTITUTION AVE NE Straight Hit Ped. Within 100ft 0 2 1 1
+￼￼￼￼485810407 4/16/2007 0645 Mon 5TH ST INGRAHAM ST NW Right Angle At Intersect 0 1 2 1
+￼￼￼￼487460407 4/17/2007 0825 Tue 11TH ST PARK RD NW Left Turn Hit Veh. At Intersect 0 1 1 1
+￼￼￼￼502620407 4/20/2007 0905 Fri 17TH ST MARYLAND AVE NE Head On Within 100ft 0 0 0 1
+￼￼￼￼504740407 4/20/2007 1620 Fri 35TH ST PROSPECT ST NW Other Not at Inter 0 1 1 1
+￼￼￼￼514730407 4/22/2007 1705 Sun 16TH ST L ST NW Straight Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼519800407 4/23/2007 1330 Mon 14TH ST CONSTITUTION AVE NW Head On At Intersect 0 1 2 1
+￼￼￼￼526640407 4/24/2007 1955 Tue 15TH ST G ST NW Other Not at Inter 0 0 3 1
+￼￼￼￼536960407 4/26/2007 1915 Thu WARDER ST PRINCETON PL NW Straight Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼539340407 4/27/2007 0850 Fri 34TH ST FULTON ST NW Side Swiped Within 100ft 0 1 2 1
+￼￼￼￼547210407 4/28/2007 1845 Sat G ST BENNING RD SE Right Angle Not at Inter 0 1 2 1
+￼￼￼￼550720407 4/29/2007 1440 Sun 23RD ST P ST NW Head On Within 100ft 0 1 2 1
+￼￼￼￼554500407 4/30/2007 0820 Mon R ST 16TH ST NW Right Turn Hit Veh. Within 100ft 0 1 2 1
+￼￼￼￼556730407 4/30/2007 1645 Mon EVARTS ST 10TH ST NE Head On At Intersect 0 1 2 1
+￼￼￼￼561100507 5/1/2007 1230 Tue RESERVOIR RD KENMORE DR NW Left Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼561610507 5/1/2007 1545 Tue 14TH ST THOMAS CIR NW Other Within 100ft 0 1 2 1
+￼￼￼￼562530507 5/1/2007 1806 Tue 31ST ST P ST NW Other At Intersect 0 1 2 1
+￼￼￼￼565570507 5/2/2007 1010 Wed 11TH ST T ST NW Rear End At Intersect 0 1 2 1
+￼￼￼￼598700507 5/8/2007 1920 Tue 13TH ST F ST NE Other At Intersect 0 1 1 1
+￼￼￼￼608820507 5/10/2007 1845 Thu FARRAGUT ST 4TH ST NW Right Angle Within 100ft 0 1 2 1
+￼￼￼￼610660507 5/11/2007 0100 Fri FLORIDA AVE NORTH CAPITOL ST BN Other 0 1 1 1
+￼￼￼￼612410507 5/11/2007 1155 Fri GEORGIA AVE FERN ST NW Right Angle At Intersect 0 1 2 1
+￼￼￼￼626120507 5/13/2007 2120 Sun 1ST ST O ST NW Left Turn Hit Veh. At Intersect 0 1 1 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼626590507 5/13/2007 2335 Sun BLADENSBURG RD NEW YORK AVE NE Side Swiped At Intersect 0 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 3 of 10 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:58:23 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of # of Fat Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼628650507 5/14/2007 1245 Mon 17TH ST I ST NW Right Turn Hit Ped. At Intersect 0 2 2 1
+￼￼￼￼631260507 5/14/2007 2025 Mon 6TH ST SOUTHERN AVE SE Head On At Intersect 0 1 2 1
+￼￼￼￼640120507 5/16/2007 1408 Wed 14TH ST I ST NW Straight Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼640820507 5/11/2007 1820 Fri INDEPENDENCE AVE 6TH ST SE Straight Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼645730507 5/17/2007 1609 Thu SOUTHERN AVE SUITLAND RD SE Right Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼647210507 5/17/2007 1945 Thu 14TH ST Q ST NW Non-Collision Accident Within 100ft 0 1 2 1
+￼￼￼￼661740507 5/20/2007 1315 Sun SPRING RD 14TH ST NW Right Angle Within 100ft 0 1 1 1
+￼￼￼￼674090507 5/22/2007 1916 Tue M ST WISCONSIN AVE NW Other Not at Inter 0 1 2 1
+￼￼￼￼678090507 5/23/2007 1459 Wed LONGFELLOW ST GEORGIA AVE NW Straight Hit Ped. Not at Inter 0 1 1 1
+￼￼￼￼678990507 5/23/2007 1810 Wed 13TH ST N ST NW Other Within 100ft 0 1 2 1
+￼￼￼￼679250507 5/23/2007 1855 Wed 16TH ST SPRING PL NW Straight Hit Ped. Not at Inter 0 1 1 1
+￼￼￼￼681330507 5/24/2007 0700 Thu 18TH ST FLORIDA AVE NW Left Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼682110507 5/24/2007 1040 Thu 14TH ST CONSTITUTION AVE NW Side Swiped Within 100ft 0 1 2 1
+￼￼￼￼684650507 5/23/2007 0900 Wed H ST 11TH ST NW Straight Hit Ped. Within 100ft 0 0 1 1
+￼￼￼￼685600507 5/24/2007 2145 Thu WOODLEY RD CONNECTICUT AVE NW Left Turn Hit Ped. Within 100ft 0 1 1 1
+￼￼￼￼687680507 5/25/2007 1040 Fri 17TH ST E ST NW Right Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼689870507 5/25/2007 1955 Fri F ST ALABAMA AVE SE Right Angle Not at Inter 0 1 2 1
+￼￼￼￼706380507 5/29/2007 0835 Tue 13TH ST U ST NW Other Within 100ft 0 1 2 1
+￼￼￼￼707890507 5/29/2007 1355 Tue COLUMBIA RD CHAMPLAIN ST NW Side Swiped Within 100ft 0 1 1 1
+￼￼￼￼709800507 5/29/2007 2000 Tue 46TH ST A ST SE Straight Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼715020507 5/30/2007 1900 Wed M ST POTOMAC ST NW Other Not at Inter 0 1 2 1
+￼￼￼￼731550607 6/2/2007 1815 Sat SHERIFF RD 46TH ST NE Other At Intersect 0 1 2 1
+￼￼￼￼738960607 6/4/2007 1156 Mon 16TH ST IRVING ST NW Side Swiped Within 100ft 0 1 2 1
+￼￼￼￼739710607 6/4/2007 1505 Mon 8TH ST H ST NE Left Turn Hit Veh. Within 100ft 0 1 2 1
+￼￼￼￼741820607 6/4/2007 2215 Mon NORTH CAPITOL ST RANDOLPH PL BN Right Angle At Intersect 0 1 2 1
+￼￼￼￼742810607 6/5/2007 0540 Tue RHODE ISLAND AVE 12TH ST NE Right Angle 0 0 2 1
+￼￼￼￼743420607 6/5/2007 0903 Tue E ST 3RD ST NW Left Turn Hit Ped. Within 100ft 0 1 2 1
+￼￼￼￼747680607 6/5/2007 2135 Tue WISCONSIN AVE P ST NW Head On Within 100ft 0 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼752250607 6/6/2007 1845 Wed 3RD ST L ST NE Right Angle At Intersect 0 0 2 1
+￼￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 4 of 10 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:58:23 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of # of Fat Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼752610607 6/6/2007 1920 Wed CALVERT ST BILTMORE ST NW Right Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼757120607 6/7/2007 1625 Thu JEFFERSON ST ILLINOIS AVE NW Right Angle At Intersect 0 2 1 1
+￼￼￼￼758640607 6/7/2007 2105 Thu MANOR PL 37TH ST NW Other Not at Inter 0 1 2 1
+￼￼￼￼758650607 6/7/2007 2030 Thu M ST WISCONSIN AVE NW Right Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼768630607 6/9/2007 1400 Sat MINNESOTA AVE 22ND ST SE Head On At Intersect 0 1 2 1
+￼￼￼￼771830607 6/9/2007 2207 Sat MONROE ST 14TH ST NE Fixed Object Not at Inter 1 1 1 1
+￼￼￼￼781050607 6/11/2007 1830 Mon PENNSYLVANIA AVE POTOMAC AVE SE Side Swiped Not at Inter 0 1 1 1
+￼￼￼￼781110607 6/11/2007 1530 Mon GEORGIA AVE FARRAGUT ST NW Back Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼798030607 6/14/2007 2300 Thu 18TH ST CALIFORNIA ST NW Rear End At Intersect 0 0 2 1
+￼￼￼￼802290607 6/15/2007 1600 Fri 7TH ST H ST NE Right Angle At Intersect 0 0 2 1
+￼￼￼￼808220607 6/16/2007 2108 Sat RANDOLPH ST 13TH ST NW Right Angle Within 100ft 0 1 2 1
+￼￼￼￼823310607 6/19/2007 1846 Tue PENNSYLVANIA AVE 6TH ST NW Side Swiped Not at Inter 0 1 2 1
+￼￼￼￼824430607 6/19/2007 2120 Tue H ST 17TH ST NW Right Angle At Intersect 0 1 2 1
+￼￼￼￼826930607 6/20/2007 0940 Wed NEW HAMPSHIRE AVE SWANN ST NW Side Swiped Not at Inter 0 1 2 1
+￼￼￼￼835270607 6/21/2007 1925 Thu 4TH ST G ST SE Non-Collision Accident At Intersect 0 1 1 1
+￼￼￼￼839850607 6/22/2007 1708 Fri GEORGIA AVE MADISON ST NW Right Angle Not at Inter 0 1 2 1
+￼￼￼￼845220607 6/23/2007 1900 Sat MOUNT PLEASANT ST LAMONT ST NW Parked Vehicle 0 0 2 1
+￼￼￼￼848570607 6/24/2007 1110 Sun WISCONSIN AVE MACOMB ST NW Right Angle At Intersect 0 0 2 1
+￼￼￼￼848720607 6/24/2007 1340 Sun FLORIDA AVE 20TH ST NW Parked Vehicle Within 100ft 0 1 2 1
+￼￼￼￼852660607 6/25/2007 1020 Mon MICHIGAN AVE SOUTH DAKOTA AVE NE Straight Hit Ped. Within 100ft 0 1 1 1
+￼￼￼￼854280607 6/25/2007 1605 Mon NEBRASKA AVE INGOMAR PL NW Other Not at Inter 0 1 2 1
+￼￼￼￼858100607 6/26/2007 1225 Tue 16TH ST HARVARD ST NW Right Angle At Intersect 0 1 1 1
+￼￼￼￼858530607 6/26/2007 1350 Tue CONSTITUTION AVE 14TH ST NW Right Angle At Intersect 0 0 2 1
+￼￼￼￼863840607 6/27/2007 1330 Wed L ST 18TH ST NW Straight Hit Ped. 0 1 1 1
+￼￼￼￼864690607 6/27/2007 1700 Wed DELAWARE AVE M ST NE Straight Hit Ped. 0 1 1 1
+￼￼￼￼869610607 6/28/2007 1539 Thu EASTERN AVE HEMLOCK ST NW Parked Vehicle Within 100ft 0 1 2 1
+￼￼￼￼875570607 6/29/2007 1714 Fri MONROE ST 16TH ST NW Right Angle Within 100ft 0 1 2 1
+￼￼￼￼881460607 6/30/2007 1700 Sat NEW JERSEY AVE D ST NW At Intersect 0 1 1 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼882560607 6/30/2007 2238 Sat NEW HAMPSHIRE AVE EMERSON ST NW Right Turn Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 5 of 10 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:58:23 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of # of Fat Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼885720707 7/1/2007 1525 Sun POTOMAC AVE PENNSYLVANIA AVE SE Left Turn Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼897680707 7/3/2007 2203 Tue M ST DELAWARE AVE NE Straight Hit Ped. Not at Inter 0 1 1 1
+￼￼￼￼￼899060707 7/4/2007 0645 Wed
+FRANCIS SCOTT KEY BRIDGE
+M ST NW Rear End Within 100ft 0 1 2 1
+￼￼￼￼901310707 7/4/2007 1745 Wed 9TH ST E ST NW Other At Intersect 0 1 1 1
+￼￼￼￼904480707 7/3/2007 1655 Tue 13TH ST EASTERN AVE NW Side Swiped Not at Inter 0 0 2 1
+￼￼￼￼909700707 7/6/2007 1010 Fri W ST 14TH ST NW Right Angle Within 100ft 0 1 2 1
+￼￼￼￼916720707 7/7/2007 1900 Sat 18TH ST T ST NW Right Angle Within 100ft 0 1 2 1
+￼￼￼￼921400707 7/8/2007 2015 Sun L ST 5TH ST NW Side Swiped At Intersect 0 0 2 1
+￼￼￼￼929070707 7/10/2007 0945 Tue 23RD ST I ST NW Right Angle At Intersect 0 0 1 1
+￼￼￼￼937290707 7/11/2007 1909 Wed 14TH ST TAYLOR ST NW Right Angle At Intersect 0 1 1 1
+￼￼￼￼943020707 7/12/2007 2140 Thu CONNECTICUT AVE LIVINGSTON ST NW Side Swiped Not at Inter 0 1 2 1
+￼￼￼￼945590707 7/13/2007 1250 Fri FARRAGUT ST 4TH ST NW Right Angle Not at Inter 0 1 1 1
+￼￼￼￼959130707 7/16/2007 0927 Mon 1ST ST G ST NE Right Angle At Intersect 0 1 0 1
+￼￼￼￼960020707 7/16/2007 1130 Mon CONNECTICUT AVE GARFIELD ST NW Other Not at Inter 0 0 1 1
+￼￼￼￼￼960920707 7/16/2007 1350 Mon
+MARTIN LUTHER KING AVE
+MORRIS RD SE Left Turn Hit Veh. At Intersect 0 0 1 1
+￼￼￼￼982440707 7/20/2007 1716 Fri 17TH ST H ST NW Right Angle Within 100ft 0 1 0 1
+￼￼￼￼982970707 7/20/2007 1845 Fri MORSE ST STAPLES ST NE Right Angle At Intersect 0 0 2 1
+￼￼￼￼100617070 7/25/2007 1130 Wed CONNECTICUT AVE M ST NW Other Within 100ft 0 1 2 1
+7
+100782070 7/25/2007 1935 Wed FLORIDA AVE 8TH ST NE Fixed Object Within 100ft 0 1 1 1
+￼￼￼￼7
+101001070 7/26/2007 0832 Thu SOUTH DAKOTA AVE KENNEDY ST NE Straight Hit Ped. Within 100ft 0 1 1 1
+￼￼￼￼￼￼7 101262070
+7
+7/26/2007
+1730
+Thu
+WISCONSIN AVE
+MASSACHUSETTS AVE
+NW Side Swiped Within 100ft 0 1 2 1
+￼￼￼￼￼￼￼101837070 7/27/2007 1830 Fri STANTON TERR FREDERICK PL SE Parked Vehicle Not at Inter 0 0 2 1
+7
+101962070 7/27/2007 2200 Fri MASSACHUSETTS AVE I ST NW Side Swiped At Intersect 0 0 2 1
+￼￼￼￼7
+102477070 7/28/2007 1929 Sat 19TH ST VERNON ST NW Other Within 100ft 0 1 2 1
+￼￼￼￼7
+104278080 8/1/2007 1300 Wed HOWISON PL N ST SW Back Hit Ped. Not at Inter 0 1 1 1
+￼￼￼￼7
+104318080 8/1/2007 1424 Wed HAMILTON ST 13TH ST NW Right Angle At Intersect 0 1 2 1
+￼￼￼￼7
+104435080 8/1/2007 1815 Wed CONSTITUTION AVE 9TH ST NW Left Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼7
+104572080 8/1/2007 2343 Wed 30TH ST K ST NW Straight Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼7
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 6 of 10 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:58:23 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of # of Fat Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼104902080 8/2/2007 1545 Thu PENNSYLVANIA AVE NEW YORK AVE NW Right Angle At Intersect 0 1 2 1
+7
+106030080 8/4/2007 1620 Sat PENNSYLVANIA AVE CONSTITUTION AVE NW Right Angle At Intersect 0 1 2 1
+￼￼￼￼7
+108407080 8/9/2007 0745 Thu WISCONSIN AVE HALL PL NW Parked Vehicle Within 100ft 0 1 2 1
+￼￼￼￼7
+108514080 8/9/2007 1225 Thu FLORIDA AVE 3RD ST NW Right Turn Hit Veh. 0 1 1 1
+￼￼￼￼￼￼7 108974080
+7
+8/10/2007
+1020
+Fri
+SUMNER RD
+MARTIN LUTHER KING AVE
+SE Other At Intersect 0 1 1 1
+￼￼￼￼￼￼￼109185080 8/10/2007 1750 Fri M ST 1ST ST NW Other At Intersect 0 1 2 1
+7
+110449070 7/29/2007 1015 Sun RIGGS RD SOUTH DAKOTA AVE NE At Intersect 0 1 2 1
+￼￼￼￼7
+111626080 8/15/2007 1945 Wed 14TH ST TAYLOR ST NW Side Swiped Within 100ft 0 0 1 1
+￼￼￼￼7
+113148080 8/18/2007 1725 Sat 61ST ST DIX ST NE Right Angle Within 100ft 0 1 1 1
+￼￼￼￼7
+114481080 8/21/2007 1615 Tue 15TH ST PENNSYLVANIA AVE NW Fixed Object Within 100ft 0 0 1 1
+￼￼￼￼7
+114752080 8/22/2007 0130 Wed H ST 5TH ST NW Straight Hit Ped. Not at Inter 0 1 1 1
+￼￼￼￼7
+115084080 8/22/2007 2000 Wed 4TH ST ATLANTIC ST SE Side Swiped 0 1 1 1
+￼￼￼￼7
+115845080 8/24/2007 1115 Fri CANAL RD M ST NW Other Not at Inter 0 1 2 1
+￼￼￼￼7
+116069080 8/24/2007 2015 Fri NEW YORK AVE 17TH ST NW Right Angle At Intersect 0 1 1 1
+￼￼￼￼7
+116537080 8/25/2007 1535 Sat EMERSON ST SARGENT RD NE Straight Hit Ped. Within 100ft 0 1 1 1
+￼￼￼￼7
+118193080 8/29/2007 0715 Wed M ST WHITEHURST FRWY NW Straight Hit Ped. Within 100ft 0 1 2 1
+￼￼￼￼7
+118976080 8/30/2007 1800 Thu POMEROY RD STANTON RD SE Straight Hit Ped. Not at Inter 0 1 1 1
+￼￼￼￼7
+120523090 9/2/2007 2000 Sun 1ST ST N ST SE Straight Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼7
+121281090 9/4/2007 1600 Tue CONNECTICUT AVE Q ST NW Parked Vehicle Within 100ft 0 1 2 1
+￼￼￼￼7
+121424090 9/4/2007 2031 Tue IDAHO AVE MACOMB ST NW Head On Within 100ft 0 1 2 1
+￼￼￼￼7
+121864090 9/5/2007 1823 Wed 18TH ST BELMONT RD NW Left Turn Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼7
+122103090 9/6/2007 0700 Thu GEORGIA AVE RITTENHOUSE ST NW Other At Intersect 0 1 2 1
+￼￼￼￼7
+122390090 9/6/2007 1832 Thu M ST 6TH ST NW Right Turn Hit Ped. At Intersect 0 1 2 1
+￼￼￼￼7
+122705090 9/7/2007 0904 Fri C ST 1ST ST SE Left Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼7
+122841090 9/7/2007 1730 Fri PENNSYLVANIA AVE 10TH ST NW Side Swiped Within 100ft 0 0 2 1
+￼￼￼￼7
+122859090 9/7/2007 1650 Fri M ST 20TH ST NW Side Swiped Within 100ft 0 1 1 1
+￼￼￼￼7
+123526090 9/8/2007 1945 Sat 17TH ST T ST NW Right Angle Not at Inter 0 1 2 1
+￼￼￼￼7
+123648090 9/8/2007 2242 Sat 14TH ST QUINCY ST NW Left Turn Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼7
+123826090 9/9/2007 0918 Sun 14TH ST K ST NW Right Angle At Intersect 1 1 3 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼7
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 7 of 10 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:58:23 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of # of Fat Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼124503090 9/10/2007 1830 Mon GEORGIA AVE V ST NW Side Swiped At Intersect 0 0 2 1
+7
+124829090 9/11/2007 1200 Tue 11TH ST H ST NW Right Angle At Intersect 0 1 2 1
+￼￼￼￼7
+125649090 9/12/2007 2239 Wed 16TH ST FULLER ST NW Straight Hit Ped. At Intersect 0 1 2 1
+￼￼￼￼7
+125768090 9/13/2007 0800 Thu PENNSYLVANIA AVE MINNESOTA AVE SE Other At Intersect 0 2 2 1
+￼￼￼￼7
+126371090 9/14/2007 1140 Fri K ST 13TH ST NW Side Swiped At Intersect 0 1 2 1
+￼￼￼￼7
+126664090 9/14/2007 2305 Fri MASSACHUSETTS AVE NORTH CAPITOL ST BN Other Not at Inter 0 1 1 1
+￼￼￼￼7
+128004090 9/17/2007 1835 Mon 17TH ST EAST CAPITOL ST BN Left Turn Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼7
+128192090 9/18/2007 0805 Tue 17TH ST CORCORAN ST NW Left Turn Hit Veh. At Intersect 0 1 1 1
+￼￼￼￼7
+128410090 9/18/2007 1348 Tue CHAIN BRIDGE RD NEBRASKA AVE NW Other At Intersect 0 1 1 1
+￼￼￼￼7
+128430090 9/18/2007 1621 Tue 16TH ST SPRING PL NW Left Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼7
+129004090 9/19/2007 1750 Wed CONNECTICUT AVE UPTON ST NW Right Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼7
+129237090 9/20/2007 0548 Thu DELAWARE AVE D ST NE Right Angle At Intersect 0 1 2 1
+￼￼￼￼7
+129581090 9/20/2007 2133 Thu STANTON RD MISSISSIPPI AVE SE Left Turn Hit Veh. Within 100ft 0 1 1 1
+￼￼￼￼￼￼7 129668090
+7
+9/21/2007
+0210
+Fri
+34TH ST
+MASSACHUSETTS AVE
+NW Other At Intersect 0 1 1 1
+￼￼￼￼￼￼￼130516090 9/22/2007 1820 Sat SEATON PL 1ST ST NW Right Angle Not at Inter 0 1 2 1
+7
+131485090 9/24/2007 2040 Mon HOLBROOK ST FLORIDA AVE NE Head On Within 100ft 0 1 2 1
+￼￼￼￼￼￼7 131878090
+7
+9/25/2007
+1701
+Tue
+1ST ST
+MASSACHUSETTS AVE
+NW Left Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼￼￼￼132278090 9/26/2007 1242 Wed CONNECTICUT AVE NEBRASKA AVE NW Right Angle Within 100ft 0 1 2 1
+7
+132316090 9/26/2007 1340 Wed M ST WISCONSIN AVE NW Other Within 100ft 0 1 3 1
+￼￼￼￼7
+132400090 9/26/2007 1800 Wed 16TH ST ALLISON ST NW Right Angle At Intersect 0 1 2 1
+￼￼￼￼7
+133158090 9/28/2007 0720 Fri 13TH ST S ST NW Side Swiped Within 100ft 0 1 2 1
+￼￼￼￼7
+133167090 9/28/2007 0820 Fri GIRARD ST NORTH CAPITOL ST BN Other Within 100ft 0 0 1 1
+￼￼￼￼7
+133544090 9/28/2007 2136 Fri GEORGIA AVE GALLATIN ST NW Straight Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼7
+133821090 9/26/2007 1900 Wed CONNECTICUT AVE CALVERT ST NW Other Not at Inter 0 0 2 1
+￼￼￼￼7
+134057090 9/29/2007 2230 Sat 14TH ST THOMAS CIR NW Side Swiped Not at Inter 0 0 2 1
+￼￼￼￼7
+134413090 9/30/2007 1641 Sun GEORGIA AVE ASPEN ST NW Right Angle At Intersect 0 1 1 1
+￼￼￼￼7
+135395100 10/2/2007 1840 Tue 14TH ST G ST NW Non-Collision Accident At Intersect 0 1 2 1
+￼￼￼￼7
+135880100 10/3/2007 1755 Wed 7TH ST E ST NW Other Within 100ft 0 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼7
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 8 of 10 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:58:23 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of # of Fat Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼136170100 10/4/2007 1040 Thu 18TH ST S ST NW Straight Hit Ped. Not at Inter 0 1 1 1
+7
+136175100 10/4/2007 0850 Thu 13TH ST K ST NW Right Angle Not at Inter 0 1 2 1
+￼￼￼￼7
+136280100 10/4/2007 1415 Thu PENNSYLVANIA AVE 28TH ST NW Other Within 100ft 0 1 3 1
+￼￼￼￼7
+136290100 10/4/2007 1455 Thu RHODE ISLAND AVE R ST NW Other At Intersect 0 2 1 1
+￼￼￼￼7
+136394100 10/4/2007 1750 Thu 18TH ST COLUMBIA RD NW Back Hit Moving Veh. At Intersect 0 0 2 1
+￼￼￼￼7
+136816100 10/5/2007 1345 Fri MASSACHUSETTS AVE 7TH ST NW Side Swiped Not at Inter 0 0 2 1
+￼￼￼￼7
+137204100 10/6/2007 0130 Sat PENNSYLVANIA AVE 29TH ST SE Rear End Not at Inter 0 1 2 1
+￼￼￼￼7
+137672100 10/6/2007 2315 Sat FLORIDA AVE CALIFORNIA ST NW Side Swiped At Intersect 0 1 2 1
+￼￼￼￼￼￼7 138509100
+7
+10/8/2007
+1807
+Mon
+WHITEHURST FRWY
+FRANCIS SCOTT KEY BRIDGE
+NW Parked Vehicle Within 100ft 0 1 2 1
+￼￼￼￼￼￼￼138608100 10/8/2007 2140 Mon CONNECTICUT AVE CALVERT ST NW Side Swiped Within 100ft 0 2 2 2
+7
+139039100 10/9/2007 1945 Tue M ST T JEFFERSON ST NW Side Swiped At Intersect 0 1 2 1
+￼￼￼￼7
+139205100 10/10/2007 0838 Wed K ST 30TH ST NW Right Angle Within 100ft 0 1 2 1
+￼￼￼￼7
+139289100 10/10/2007 1218 Wed 17TH ST DE SALES ST NW Parked Vehicle Within 100ft 0 1 1 1
+￼￼￼￼7
+139407100 10/10/2007 1630 Wed M ST 30TH ST NW Left Turn Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼7
+139466100 10/10/2007 1840 Wed QUINCY ST GEORGIA AVE NW Right Angle Within 100ft 0 1 1 1
+￼￼￼￼7
+139708100 10/11/2007 0826 Thu FLORIDA AVE 20TH ST NW Other Within 100ft 0 1 1 1
+￼￼￼￼7
+139727100 10/11/2007 0820 Thu UNION STATION PLAZA LOUISIANA AVE NE Other Not at Inter 0 0 2 1
+￼￼￼￼7
+139955100 10/11/2007 1750 Thu 7TH ST FLORIDA AVE NW Left Turn Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼7
+141131100 10/13/2007 1730 Sat WISCONSIN AVE M ST NW Right Turn Hit Ped. At Intersect 0 1 2 1
+￼￼￼￼￼￼7 141722100
+7
+10/15/2007
+0900
+Mon
+30TH ST
+MASSACHUSETTS AVE
+NW Right Angle At Intersect 0 1 1 1
+￼￼￼￼￼￼￼142019100 7
+10/15/2007
+2000
+Mon
+17TH ST
+NEW HAMPSHIRE AVE
+NW Right Angle At Intersect 0 1 2 1
+￼￼￼￼142208100 10/16/2007 0827 Tue 18TH ST FLORIDA AVE NW Side Swiped At Intersect 0 1 2 1
+7
+142445100 10/16/2007 1735 Tue WEST VIRGINIA AVE FLORIDA AVE NE Right Turn Hit Ped. At Intersect 0 1 1 1
+￼￼￼￼7
+143007100 10/17/2007 1800 Wed NEW YORK AVE NEW JERSEY AVE NW Straight Hit Ped. Within 100ft 0 0 1 1
+￼￼￼￼7
+143401100 10/18/2007 1610 Thu 33RD ST O ST NW Other Within 100ft 0 1 1 1
+￼￼￼￼7
+143767100 10/19/2007 0940 Fri 1ST ST K ST NW Right Angle At Intersect 0 1 1 1
+￼￼￼￼7
+143932100 10/19/2007 1510 Fri 9TH ST MOUNT VERNON PL NW Head On At Intersect 0 1 1 1
+￼￼￼￼7
+144436100 10/20/2007 1320 Sat KENTUCKY AVE 13TH ST SE Right Angle At Intersect 0 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼7
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 9 of 10 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:58:23 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of # of Fat Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼144548100 10/20/2007 1725 Sat CONNECTICUT AVE PORTER ST NW Side Swiped Not at Inter 0 1 2 1
+7
+144559100 10/20/2007 1730 Sat 7TH ST S ST NW Left Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼7
+144582100 10/20/2007 1835 Sat 16TH ST SPRING PL NW Side Swiped At Intersect 0 1 2 1
+￼￼￼￼7
+145008100 10/21/2007 1313 Sun RHODE ISLAND AVE 8TH PL NE Rear End Not at Inter 0 1 2 1
+￼￼￼￼7
+145188100 10/21/2007 1945 Sun W ST 5TH ST NW Straight Hit Ped. Within 100ft 0 1 1 1
+￼￼￼￼7
+145322100 10/22/2007 0605 Mon COLUMBIA RD ONTARIO RD NW Other Within 100ft 0 0 2 1
+￼￼￼￼7
+145445100 10/22/2007 1225 Mon 14TH ST P ST NW Right Turn Hit Veh. At Intersect 0 1 1 1
+￼￼￼￼7
+145469100 10/22/2007 1208 Mon VERMONT AVE L ST NW Not at Inter 0 1 2 1
+￼￼￼￼￼￼7 146581100
+7
+10/24/2007
+1715
+Wed
+20TH ST
+MASSACHUSETTS AVE
+NW Left Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼￼￼￼￼146646100 7
+10/24/2007
+1945
+Wed
+1ST ST
+MASSACHUSETTS AVE
+NW Other Not at Inter 0 1 2 1
+￼￼￼￼146938100 10/25/2007 1310 Thu PENNSYLVANIA AVE MINNESOTA AVE SE Other At Intersect 0 1 1 1
+￼￼7
+147748100 10/27/2007 0300 Sat 13TH ST MONROE ST NW Rear End At Intersect 0 1 2 1
+￼￼￼7
+148056100 10/27/2007 2015 Sat 7TH ST E ST NE Straight Hit Ped. 0 1 1 1
+￼￼￼￼7
+149495100 10/30/2007 1910 Tue HOLMEAD PL MONROE ST NW Other At Intersect 0 1 2 1
+￼￼￼￼7
+149795100 10/31/2007 1130 Wed 1ST ST NEW YORK AVE NE Right Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼7
+149839100 10/31/2007 1330 Wed COLUMBIA RD MINTWOOD PL NW Right Angle Not at Inter 0 1 2 1
+￼￼￼￼7
+150290110 11/1/2007 0820 Thu THOMAS CIR 14TH ST NW Side Swiped Within 100ft 0 0 2 1
+￼￼￼￼7
+150851110 11/2/2007 0915 Fri P ST 11TH ST NW Right Angle Within 100ft 0 1 2 1
+￼￼￼￼7
+152654110 11/5/2007 1744 Mon D ST 14TH ST SW Straight Hit Ped. Not at Inter 0 1 1 1
+￼￼￼￼7
+153092110 11/6/2007 1800 Tue 6TH ST SCHOOL ST SW Parked Vehicle Within 100ft 0 1 2 1
+￼￼￼￼7
+153162110 11/6/2007 1834 Tue 7TH ST I ST NW Side Swiped Within 100ft 0 0 2 1
+￼￼￼￼7
+154080110 11/8/2007 1730 Thu 5TH ST C ST NE Right Angle Within 100ft 0 1 2 1
+￼￼￼￼7
+154469110 11/9/2007 1320 Fri 19TH ST M ST NW Other Within 100ft 0 1 3 1
+￼￼￼￼7
+155978110 11/12/2007 1715 Mon BELMONT ST 14TH ST NW Right Angle Not at Inter 0 1 2 1
+￼￼￼￼7
+156646110 11/14/2007 0750 Wed 13TH ST W ST NW Left Turn Hit Veh. At Intersect 0 1 2 1
+￼￼￼￼7
+157533110 11/15/2007 1935 Thu MASSACHUSETTS AVE KLINGLE PL NW Right Angle At Intersect 0 1 1 1
+￼￼￼￼7
+157836110 11/16/2007 1405 Fri 13TH ST M ST NW Parked Vehicle Within 100ft 0 1 2 1
+￼￼￼￼7
+158498110 11/17/2007 1600 Sat 51ST ST BLAINE ST NE Rear End At Intersect 0 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼7
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 10 of 10 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:58:23 AM
+￼￼Complaint Number
+￼Accident Date
+￼Time
+￼￼Week Day
+￼Accident Occured On
+￼Side Street
+￼Quad
+￼Type of Collision
+￼On Street
+￼# of Fat
+￼￼# of Inj
+￼# of Veh
+￼# of Bcy
+￼159152110
+￼￼11/19/2007
+￼￼0045
+￼￼Mon
+￼￼18TH ST
+￼￼CALIFORNIA ST
+￼￼NW
+￼￼Parked Vehicle
+￼￼Within 100ft
+￼￼0
+￼￼1
+￼￼2
+￼1
+7 160240110
+￼￼11/21/2007
+￼0609
+￼Wed
+￼23RD ST
+￼I ST
+￼NW
+￼Straight Hit Ped.
+￼At Intersect
+￼0
+￼1
+￼2
+￼1
+7 160267110
+￼￼11/21/2007
+￼0840
+￼Wed
+￼11TH ST
+￼VERMONT AVE
+￼NW
+￼Head On
+￼At Intersect
+￼0
+￼1
+￼2
+￼1
+7 161594110
+￼￼11/24/2007
+￼0850
+￼Sat
+￼MILITARY RD
+￼NEVADA AVE
+￼NW
+￼Right Angle
+￼At Intersect
+￼0
+￼1
+￼1
+￼1
+7 162169110
+￼￼11/25/2007
+￼1525
+￼Sun
+￼12TH ST
+￼U ST
+￼NW
+￼Straight Hit Ped.
+￼At Intersect
+￼0
+￼1
+￼1
+￼1
+7 162769110
+￼￼11/25/2007
+￼1525
+￼Sun
+￼12TH ST
+￼U ST
+￼NW
+￼Straight Hit Ped.
+￼At Intersect
+￼0
+￼1
+￼1
+￼1
+7 162898110
+￼￼11/27/2007
+￼0800
+￼Tue
+￼L ST
+￼18TH ST
+￼NW
+￼Side Swiped
+￼Within 100ft
+￼0
+￼0
+￼0
+￼1
+7 163043110
+7
+￼￼￼11/27/2007
+￼1400
+￼Tue
+￼5TH ST
+￼MASSACHUSETTS AVE
+￼NW
+￼Side Swiped
+￼Within 100ft
+￼0
+￼1
+￼2
+￼￼1
+￼164277110
+￼11/29/2007
+￼2040
+￼Thu
+￼14TH ST
+￼BUCHANAN ST
+￼NW
+￼Left Turn Hit Veh.
+￼At Intersect
+￼0
+￼1
+￼2
+￼1
+7 164425110
+￼￼11/30/2007
+￼0730
+￼Fri
+￼13TH ST
+￼D ST
+￼NE
+￼Other
+￼At Intersect
+￼0
+￼1
+￼2
+￼1
+7 165106120
+￼￼12/1/2007
+￼1350
+￼Sat
+￼14TH ST
+￼U ST
+￼NW
+￼Right Angle
+￼￼0
+￼1
+￼2
+￼1
+7 165739120
+￼￼12/3/2007
+￼0710
+￼Mon
+￼GEORGIA AVE
+￼BARRY PL
+￼NW
+￼Right Angle
+￼Within 100ft
+￼0
+￼1
+￼2
+￼1
+7 165932120
+￼￼12/3/2007
+￼1552
+￼Mon
+￼L ST
+￼14TH ST
+￼NW
+￼Right Angle
+￼Within 100ft
+￼0
+￼1
+￼2
+￼1
+7 166214120
+￼￼12/4/2007
+￼0715
+￼Tue
+￼14TH ST
+￼NEWTON ST
+￼NW
+￼Side Swiped
+￼Within 100ft
+￼0
+￼1
+￼2
+￼1
+7 166526120
+￼￼12/4/2007
+￼1800
+￼Tue
+￼11TH ST
+￼I ST
+￼NE
+￼Head On
+￼At Intersect
+￼0
+￼1
+￼1
+￼1
+7 168044120
+￼￼12/7/2007
+￼2250
+￼Fri
+￼FLORIDA AVE
+￼GEORGIA AVE
+￼NW
+￼Other
+￼￼0
+￼0
+￼2
+￼1
+7 169258120
+￼￼12/10/2007
+￼1400
+￼Mon
+￼15TH ST
+￼H ST
+￼NW
+￼Side Swiped
+￼Within 100ft
+￼0
+￼0
+￼1
+￼1
+7 171145120
+￼￼12/14/2007
+￼0920
+￼Fri
+￼16TH ST
+￼BELMONT ST
+￼NW
+￼Right Angle
+￼At Intersect
+￼0
+￼1
+￼2
+￼1
+7 171361120
+￼￼12/14/2007
+￼1700
+￼Fri
+￼G ST
+￼12TH ST
+￼NW
+￼Other
+￼Not at Inter
+￼0
+￼1
+￼2
+￼1
+7 172514120
+￼￼12/17/2007
+￼0830
+￼Mon
+￼11TH ST
+￼GIRARD ST
+￼NW
+￼Right Angle
+￼At Intersect
+￼0
+￼1
+￼2
+￼1
+7 174495120
+￼￼12/21/2007
+￼0840
+￼Fri
+￼16TH ST
+￼D ST
+￼NE
+￼Straight Hit Ped.
+￼At Intersect
+￼0
+￼1
+￼1
+￼1
+7 176416120
+￼￼12/23/2007
+￼￼1945
+￼Sun
+￼HALF ST
+￼￼M ST
+￼SE
+￼Right Turn Hit Ped.
+￼￼At Intersect
+￼0
+￼1
+￼1
+￼￼1
+7

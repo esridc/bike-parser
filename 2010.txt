@@ -1,0 +1,934 @@
+10002267 1/6/2010 0859 Wed THIRTEENTH ST KENYON ST NW Right Turn Hit Ped. At Intersect 1 2 1
+￼￼￼￼10004997 1/12/2010 0830 Wed SECOND ST L ST NE Head On At Intersect 1 2 1
+￼￼￼￼10005086 1/12/2010 1255 Tue M ST FIRST ST SW Other Within 100ft 1 2 1
+￼￼￼￼10005351 1/12/2010 2028 Tue SEVENTEENTH ST Q ST NW Left Turn Hit Veh. At Intersect 0 2 1
+￼￼￼￼10005589 1/13/2010 1430 Wed H ST SEVENTH ST NW Left Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼￼10005763 1/13/2010 2010 Wed GARFIELD ST
+MASSACHUSETTS AVE
+NW Right Angle Within 100ft 1 2 1
+￼￼￼￼10006781 1/15/2010 1955 Fri MARYLAND AVE EIGHTH ST NE Other Within 100ft 0 0 1
+￼￼￼￼10008786 1/20/2010 0945 Wed SIXTEENTH ST HARVARD ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10009441 1/21/2010 1559 Thu P ST NW Straight Hit Ped. N/A 0 1 1
+￼￼￼￼10010926 1/24/2010 1720 Sun CALVERT ST CONNECTICUT AVE NW Left Turn Hit Ped. At Intersect 0 2 1
+￼￼￼￼10011435 1/25/2010 2000 Mon SEVENTEENTH ST BENNING RD NE Right Angle Within 100ft 0 2 1
+￼￼￼￼10011874 1/26/2010 1730 Tue VERMONT AVE U ST NW Other At Intersect 1 2 1
+￼￼￼￼10011898 1/26/2010 1843 Tue BILTMORE ST COLUMBIA RD NW Right Angle N/A 0 2 1
+￼￼￼￼10012913 1/28/2010 1915 Thu RESERVOIR RD THIRTY NINTH ST NW Straight Hit Ped. Within 100ft 1 1 1
+￼￼￼￼10013605 1/30/2010 0710 Sat GEORGIA AVE KENNEDY ST NW Right Angle Within 100ft 1 1 1
+￼￼￼￼10014327 2/1/2010 1145 Mon TWENTY NINTH ST TILDEN ST NW Right Angle At Intersect 0 2 1
+￼￼￼￼10014756 2/2/2010 1007 Tue MICHIGAN AVE WARDER ST NW Right Angle Not at Inter 1 2 1
+￼￼￼￼10015935 2/4/2010 1945 Thu VAN NESS ST CONNECTICUT AVE NW Other Within 100ft 1 2 1
+￼￼￼￼10020157 2/17/2010 1354 Wed L ST NINTEENTH ST NW Parked Vehicle Within 100ft 0 2 1
+￼￼￼￼10020552 2/18/2010 1100 Thu FOURTEENTH ST L ST NW Head On At Intersect 0 0 1
+￼￼￼￼10020775 2/18/2010 1810 Thu CONNECTICUT AVE CATHEDRAL AVE NW Straight Hit Ped. Not at Inter 1 1 1
+￼￼￼￼10021049 2/19/2010 0935 Fri NORTH CAPITOL ST L ST BN Other Within 100ft 1 2 1
+￼￼￼￼10021912 2/20/2010 2002 Sat CONNECTICUT AVE S ST NW Other At Intersect 1 1 1
+￼￼￼￼10022763 2/22/2010 1730 Mon FOURTEENTH ST JEFFERSON DR SW Right Angle Within 100ft 0 2 1
+￼￼￼￼10024780 2/26/2010 2016 Fri EIGHTEENTH ST R ST NW Straight Hit Ped. At Intersect 1 2 1
+￼￼￼￼10026032 3/1/2010 1231 Mon NEW JERSEY AVE H ST NW Right Angle Within 100ft 1 1 1
+￼￼￼￼10026183 3/1/2010 1830 Mon MICHIGAN AVE FOURTH ST NE Straight Hit Ped. Within 100ft 0 1 1
+￼￼￼￼10026751 3/2/2010 2156 Tue H ST ELEVENTH ST NW Other Within 100ft 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10027644 3/4/2010 1830 Thu SEVENTH ST H ST NW Straight Hit Ped. At Intersect 1 2 1
+￼￼￼￼￼￼￼￼￼￼455 accidents(194 not approved) listed in this query result.
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 2 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10029071 3/7/2010 1355 Sun RHODE ISLAND AVE FIFTH ST NE Left Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10029927 3/9/2010 1035 Tue K ST FOURTEENTH ST NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10030190 3/9/2010 1855 Tue WATER ST WISCONSIN AVE NW Head On At Intersect 0 2 1
+￼￼￼￼10030338 3/9/2010 2259 Tue ELEVENTH ST V ST NW Other At Intersect 1 2 1
+￼￼￼￼10030458 3/10/2010 0845 Wed P ST TWENTY THIRD ST NW Other Within 100ft 1 2 1
+￼￼￼￼10030643 3/10/2010 1640 Wed ECKINGTON PL R ST NE Left Turn Hit Ped. At Intersect 1 2 1
+￼￼￼￼10032081 3/13/2010 0900 Sat CEDAR ST HIGH ST SE Right Angle Within 100ft 0 1 1
+￼￼￼￼￼10033963 3/17/2010 0840 Wed SECOND ST
+MASSACHUSETTS AVE
+NE Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10034016 3/17/2010 1116 Wed CLEVELAND AVE THIRTY FIRST PL NW Other N/A 1 2 1
+￼￼￼￼10034071 3/17/2010 1310 Wed EIGHTEENTH ST RHODE ISLAND AVE NE Right Angle At Intersect 1 2 1
+￼￼￼￼10034186 3/17/2010 1655 Wed U ST EIGHTEENTH ST NW Right Angle Within 100ft 1 2 1
+￼￼￼￼10035146 3/19/2010 1108 Fri MASSACHUSETTS AVE OBSERVATORY CIR NW Side Swiped Not at Inter 1 2 1
+￼￼￼￼10036298 3/21/2010 1045 Sun RHODE ISLAND AVE FIFTEENTH ST NW Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10036544 3/21/2010 1030 Sun NEW HAMPSHIRE AVE EIGHTEENTH ST NW Other Within 100ft 1 1 1
+￼￼￼￼10036910 3/22/2010 1605 Mon NORTH CAPITOL ST EVARTS ST BN Side Swiped Within 100ft 1 1 1
+￼￼￼￼10037199 3/23/2010 0824 Tue COLUMBIA RD THIRTEENTH ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10037568 3/23/2010 1718 Tue COLUMBIA RD FOURTEENTH ST NW Straight Hit Ped. Not at Inter 1 2 1
+￼￼￼￼10039143 3/26/2010 1653 Fri FOURTH ST EDGEWOOD ST NE Straight Hit Ped. Not at Inter 1 2 1
+￼￼￼￼10039601 3/27/2010 1210 Sat SEVENTH ST INDEPENDENCE AVE SW Right Angle At Intersect 1 2 1
+￼￼￼￼10041700 3/31/2010 1730 Wed FOURTEENTH ST RHODE ISLAND AVE NW Other At Intersect 1 2 1
+￼￼￼￼10041760 3/31/2010 1930 Wed FOURTEENTH ST GIRARD ST NW Left Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10042006 4/1/2010 0645 Thu THIRTY FOURTH ST BENNING RD NE Right Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10042039 4/1/2010 0852 Thu SHERMAN AVE EUCLID ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10042050 4/1/2010 0922 Thu COLUMBIA RD HARVARD ST NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10043613 4/3/2010 2002 Sat SIXTEENTH ST SPRING RD NW Straight Hit Ped. At Intersect 1 2 1
+￼￼￼￼10044766 4/6/2010 0756 Tue CONSTITUTION AVE FIRST ST NW Fixed Object At Intersect 1 1 1
+￼￼￼￼10045028 4/6/2010 1731 Tue WISCONSIN AVE ALBEMARLE ST NW Non-Collision Accident Within 100ft 1 1 1
+￼￼￼￼10045337 4/7/2010 0830 Wed MASSACHUSETTS AVE CALIFORNIA ST NW Right Angle Not at Inter 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10046156 4/8/2010 1715 Thu FIFTEENTH ST EUCLID ST NW Right Turn Hit Veh. Not at Inter 0 2 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 3 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10046214 4/8/2010 1930 Thu H ST SEVENTH ST NW Other Within 100ft 1 1 1
+￼￼￼￼10046486 4/9/2010 1240 Fri EIGHTEENTH ST CALIFORNIA ST NW Other Within 100ft 1 3 1
+￼￼￼￼10046746 4/9/2010 2220 Fri NINTH ST RITTENHOUSE ST NW Left Turn Hit Ped. At Intersect 0 2 1
+￼￼￼￼10047241 4/10/2010 1803 Sat CONNECTICUT AVE DEVONSHIRE PL NW Parked Vehicle Not at Inter 0 2 1
+￼￼￼￼10047523 4/11/2010 0354 Sun BENNING RD THIRTY SIXTH ST NE Other Not at Inter 1 2 1
+￼￼￼￼10048198 4/12/2010 1600 Mon FORTY NINTH ST SHERIFF RD NE Other Within 100ft 0 0 1
+￼￼￼￼10048223 4/12/2010 1805 Mon NEW YORK AVE TWELFTH ST NW Other At Intersect 1 2 1
+￼￼￼￼10048499 4/13/2010 0940 Tue THIRTEENTH ST G ST NW Right Angle At Intersect 0 1 1
+￼￼￼￼10048562 4/13/2010 1210 Tue NINTEENTH ST M ST NW Head On At Intersect 1 2 1
+￼￼￼￼10048928 4/14/2010 0910 Wed NEW HAMPSHIRE AVE N ST NW Side Swiped Within 100ft 1 1 1
+￼￼￼￼10049628 4/15/2010 1555 Thu SOUTH CAPITOL ST I ST BN Right Turn Hit Ped. At Intersect 0 2 1
+￼￼￼￼10049695 4/15/2010 1730 Thu VAN NESS ST WISCONSIN AVE NW Other Not at Inter 0 2 1
+￼￼￼￼10049800 4/15/2010 2030 Thu GEORGIA AVE HARVARD ST NW Straight Hit Ped. At Intersect 1 2 1
+￼￼￼￼10050019 4/16/2010 0800 Fri INDEPENDENCE AVE FOURTH ST SW Other Not at Inter 1 2 1
+￼￼￼￼10050096 4/16/2010 1140 Fri ELEVENTH ST PARK RD NW Right Angle At Intersect 1 1 1
+￼￼￼￼10050186 4/15/2010 1500 Thu NORTH CAPITOL ST BN Side Swiped Not at Inter 0 1 1
+￼￼￼￼10050210 4/16/2010 1525 Fri NINTEENTH ST VIRGINIA AVE NW Head On At Intersect 1 2 1
+￼￼￼￼10050639 4/17/2010 0934 Sat FORTY FOURTH ST SHERIFF RD NE Other Not at Inter 2 1 1
+￼￼￼￼10050700 4/17/2010 1245 Sat GOOD HOPE RD SIXTEENTH ST SE Non-Collision Accident Not at Inter 1 1 1
+￼￼￼￼10051836 4/19/2010 1722 Mon M ST WISCONSIN AVE NW Side Swiped Not at Inter 0 2 1
+￼￼￼￼10052175 4/20/2010 0829 Tue NINTEENTH ST BILTMORE ST NW Left Turn Hit Veh. N/A 1 1 1
+￼￼￼￼10052267 4/20/2010 1420 Tue FIFTEENTH ST K ST NW Left Turn Hit Veh. At Intersect 1 1 1
+￼￼￼￼10052352 4/20/2010 1705 Tue P ST FOURTEENTH ST NW Side Swiped Not at Inter 0 1 1
+￼￼￼￼10052408 4/20/2010 1712 Tue TWENTY THIRD ST SHERIDAN CIR NW Side Swiped Within 100ft 0 2 1
+￼￼￼￼10052640 4/21/2010 0600 Wed FOURTEENTH ST INDEPENDENCE AVE SW Straight Hit Ped. Within 100ft 0 1 1
+￼￼￼￼10052674 4/21/2010 0900 Wed P ST DUPONT CIR NW Right Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10052864 4/21/2010 1610 Wed THIRTEENTH ST O ST NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10052959 4/21/2010 1819 Wed CONSTITUTION AVE FIRST ST NE Other Not at Inter 0 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10053049 4/21/2010 2201 Wed TWENTIETH ST L ST NW Other Not at Inter 1 2 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 4 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10053192 4/22/2010 0942 Thu VERMONT AVE U ST NW Other Within 100ft 0 1 1
+￼￼￼￼10053623 4/22/2010 2255 Thu FLORIDA AVE CONNECTICUT AVE NW Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10053960 4/23/2010 1525 Fri Q ST NINTEENTH ST NW Side Swiped Within 100ft 0 2 1
+￼￼￼￼10054212 4/23/2010 2204 Fri BRYANT ST SEVENTEENTH ST NE Rear End Within 100ft 2 2 1
+￼￼￼￼10056166 4/27/2010 1620 Tue NINTEENTH ST L ST NW Right Angle At Intersect 0 2 1
+￼￼￼￼10057240 4/29/2010 1515 Thu RHODE ISLAND AVE SIXTEENTH ST NE Other At Intersect 1 2 1
+￼￼￼￼10057621 4/30/2010 0830 Fri TENLY CIR YUMA ST Other At Intersect 1 2 1
+￼￼￼￼10057731 4/30/2010 1304 Fri SEVENTEENTH ST N ST NW Other Within 100ft 0 2 1
+￼￼￼￼10057923 4/30/2010 1700 Fri PENNSYLVANIA AVE TWENTY SIXTH ST NW Rear End Within 100ft 1 2 1
+￼￼￼￼10058398 5/1/2010 1239 Sat T ST NORTH CAPITOL ST BN Other Within 100ft 1 2 1
+￼￼￼￼10058518 5/1/2010 1840 Sat THIRTEENTH ST G ST NW Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10058703 5/2/2010 0021 Sun FIFTEENTH ST I ST NW Right Angle Not at Inter 1 1 1
+￼￼￼￼10058841 5/2/2010 0905 Sun SEVENTH ST P ST NW Other At Intersect 1 1 1
+￼￼￼￼10059323 5/3/2010 1105 Mon NORTH CAPITOL ST G ST BN Right Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10059330 5/3/2010 1120 Mon CALIFORNIA ST CONNECTICUT AVE NW Other At Intersect 1 2 1
+￼￼￼￼10059497 5/3/2010 1710 Mon THIRTEENTH ST F ST NW Left Turn Hit Veh. At Intersect 0 2 1
+￼￼￼￼10059934 5/4/2010 1240 Tue MASSACHUSETTS AVE THIRTEENTH ST NW Right Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10060416 5/5/2010 0820 Wed TWENTY THIRD ST WASHINGTON CIR NW Parked Vehicle Not at Inter 1 2 1
+￼￼￼￼￼10060788 5/5/2010 2040 Wed NEW YORK AVE
+FBI:INTERSTATE 395@3RD ST TUNNEL
+NW Straight Hit Ped. At Intersect 1 1 1
+￼￼￼￼10060868 5/5/2010 2316 Wed EIGHTEENTH ST CALIFORNIA ST NW Other Within 100ft 1 1 1
+￼￼￼￼10060987 5/6/2010 0835 Thu SIXTEENTH ST FLORIDA AVE NW Other At Intersect 1 2 1
+￼￼￼￼10061234 5/6/2010 1700 Thu PARK RD FOURTEENTH ST NW Right Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10061237 5/6/2010 1645 Thu Q ST TWENTIETH ST NW Other At Intersect 0 2 1
+￼￼￼￼10061317 5/6/2010 1930 Thu FOURTEENTH ST H ST NW Side Swiped Not at Inter 0 2 1
+￼￼￼￼10061839 5/7/2010 1629 Fri ALABAMA AVE THIRTY EIGHTH ST SE Right Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10061903 5/7/2010 1400 Fri K ST SIXTH ST NW Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10062345 5/8/2010 0939 Sat GEORGIA AVE GRESHAM PL NW Rear End At Intersect 1 1 1
+￼￼￼￼10062490 5/8/2010 1609 Sat PENNSYLVANIA AVE INDEPENDENCE AVE SE Side Swiped Not at Inter 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10063274 5/10/2010 0720 Mon SIXTH ST E ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 5 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10063487 5/10/2010 1554 Mon FLORIDA AVE I ST NE Other At Intersect 1 2 1
+￼￼￼￼10064130 5/11/2010 1837 Tue NEWTON ST TWELFTH ST NE Side Swiped Not at Inter 0 2 1
+￼￼￼￼10065341 5/13/2010 2220 Thu EIGHTH ST C ST SE Right Angle Within 100ft 1 2 1
+￼￼￼￼10065485 5/14/2010 0734 Fri WISCONSIN AVE ALBEMARLE ST NW Straight Hit Ped. At Intersect 1 2 1
+￼￼￼￼10065789 5/14/2010 1818 Fri JACKSON ST THIRTEENTH ST NE Right Angle Not at Inter 2 3 2
+￼￼￼￼10065809 5/14/2010 1805 Fri FOURTEENTH ST R ST NW Other Within 100ft 1 2 1
+￼￼￼￼￼10065923 5/14/2010 2245 Fri FIFTH ST
+MASSACHUSETTS AVE
+NW Left Turn Hit Ped. At Intersect 1 2 1
+￼￼￼￼10065941 5/14/2010 2346 Fri SIXTEENTH ST IRVING ST NW Other At Intersect 1 2 1
+￼￼￼￼10066193 5/15/2010 1000 Sat FIFTEENTH ST PENNSYLVANIA AVE NW Other Within 100ft 1 1 1
+￼￼￼￼10066231 5/15/2010 1310 Sat SEVENTH ST GIRARD ST NE Right Angle At Intersect 1 2 1
+￼￼￼￼10066277 5/15/2010 1800 Sat K ST SIXTH ST NW Left Turn Hit Ped. Within 100ft 0 1 1
+￼￼￼￼10066943 5/16/2010 1900 Sun SEVENTH ST RHODE ISLAND AVE NW Right Angle At Intersect 1 2 1
+￼￼￼￼10067134 5/17/2010 0845 Mon FOURTEENTH ST BELMONT ST NW Straight Hit Ped. Not at Inter 2 0 1
+￼￼￼￼10068446 5/19/2010 1600 Wed FOURTEENTH ST BELMONT ST NW Right Angle At Intersect 1 1 1
+￼￼￼￼10068764 5/20/2010 0720 Thu FOURTH ST BRYANT ST NW Rear End Within 100ft 1 2 1
+￼￼￼￼10069037 5/20/2010 1630 Thu MASSACHUSETTS AVE DUPONT CIR NW Other Not at Inter 1 2 1
+￼￼￼￼10069227 5/20/2010 2330 Thu KENYAN WARDER ST NW Right Angle Within 100ft 1 2 1
+￼￼￼￼10069649 5/21/2010 1730 Fri GEORGIA AVE KENYON ST NW Parked Vehicle N/A 1 3 1
+￼￼￼￼10070173 5/22/2010 1600 Sat SIXTEENTH ST COLUMBIA RD NW Straight Hit Ped. 1 2 1
+￼￼￼￼10071081 5/24/2010 1020 Mon I ST TWENTY FOURTH ST NW Right Angle At Intersect 1 1 1
+￼￼￼￼10071137 5/24/2010 1223 Mon QUINCY ST SEVENTH ST NW Right Angle At Intersect 1 1 1
+￼￼￼￼10071392 5/24/2010 2045 Mon EIGHTEENTH ST BELMONT ST NW Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10071597 5/25/2010 0858 Tue GIRARD ST FOURTEENTH ST NW Straight Hit Ped. Other 1 1 1
+￼￼￼￼￼10071613 5/25/2010 0840 Tue WHITEHAVEN ST
+MASSACHUSETTS AVE
+NW Right Angle At Intersect 0 2 1
+￼￼￼￼10072200 5/26/2010 0846 Wed K ST WATER ST NW Head On Within 100ft 1 2 1
+￼￼￼￼10072412 5/26/2010 1630 Wed PENNSYLVANIA AVE THIRTY EIGHTH ST SE Other At Intersect 1 2 1
+￼￼￼￼10072490 5/26/2010 1838 Wed CONNECTICUT AVE SEDGWICK ST NW Side Swiped Within 100ft 0 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10072749 5/27/2010 0808 Thu SIXTH ST RHODE ISLAND AVE NW Other Within 100ft 2 2 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 6 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10072751 5/27/2010 0800 Thu THIRTEENTH ST W ST SE Side Swiped Not at Inter 1 2 1
+￼￼￼￼10073000 5/27/2010 1740 Thu ECKINGTON PL FLORIDA AVE NE Right Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10073280 5/28/2010 0800 Fri THIRTEENTH ST CLIFTON ST NW Other Not at Inter 1 1 1
+￼￼￼￼10073384 5/28/2010 1330 Fri SHERMAN AVE EUCLID ST NW Left Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10073409 5/25/2010 2045 Tue COLUMBIA RD CHAMPLAIN ST NW Straight Hit Ped. Not at Inter 1 1 1
+￼￼￼￼10073422 5/28/2010 1430 Fri EUCLID ST CHAMPLAIN ST NW Left Turn Hit Veh. At Intersect 0 2 1
+￼￼￼￼10073999 5/29/2010 1333 Sat COLUMBIA RD SIXTEENTH ST NW Rear End Within 100ft 1 2 1
+￼￼￼￼10074556 5/30/2010 1530 Sun PENNSYLVANIA AVE TWENTY FOURTH ST NW Side Swiped At Intersect 0 2 1
+￼￼￼￼10074665 5/30/2010 1945 Sun FOURTEENTH ST W ST NW Right Angle Within 100ft 1 2 1
+￼￼￼￼10074754 5/30/2010 2330 Sun TWELFTH ST EAST CAPITOL ST BN Right Turn Hit Veh. At Intersect 1 1 1
+￼￼￼￼10075297 6/1/2010 0806 Tue MASSACHUSETTS AVE FOURTEENTH ST NW Rear End Not at Inter 1 2 1
+￼￼￼￼￼10075886 6/2/2010 0815 Wed F ST
+NEW HAMPSHIRE AVE
+NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10076234 6/2/2010 1906 Wed FIFTH ST R ST NW Left Turn Hit Ped. Not at Inter 1 1 1
+￼￼￼￼10076549 6/2/2010 1830 Tue RHODE ISLAND AVE FOURTEENTH ST NW Parked Vehicle Within 100ft 0 1 1
+￼￼￼￼10076777 6/3/2010 1808 Thu THIRTEENTH ST S ST NW Other Not at Inter 1 1 1
+￼￼￼￼10077305 6/4/2010 1745 Fri W ST SIXTEENTH ST SE Right Angle At Intersect 0 1 1
+￼￼￼￼10077513 6/5/2010 0022 Sat EIGHTH ST V ST NW Rear End Within 100ft 0 1 1
+￼￼￼￼10077516 6/4/2010 2243 Fri SOUTHERN AVE VALLEY TER SE Other Not at Inter 1 2 1
+￼￼￼￼10078125 6/6/2010 0103 Sun COLUMBIA RD MINTWOOD PL NW Head On At Intersect 1 2 1
+￼￼￼￼10078526 6/6/2010 2025 Sun H ST ELEVENTH ST NE Right Angle N/A 1 2 1
+￼￼￼￼10078722 6/7/2010 0955 Mon MACARTHUR BLVD WHITEHAVEN PKWY NW Left Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10078819 6/7/2010 1300 Mon THIRTY SEVENTH ST WHITEHAVEN PKWY NW Other At Intersect 0 2 1
+￼￼￼￼10079827 6/9/2010 0815 Wed EADS ST FORTY FOURTH ST NE Straight Hit Ped. Not at Inter 1 1 1
+￼￼￼￼10080001 6/9/2010 1559 Wed M ST NINTEENTH ST NW Side Swiped N/A 0 1 1
+￼￼￼￼10080487 6/10/2010 1315 Thu PENNSYLVANIA AVE NINTH ST NW Left Turn Hit Veh. Other 1 2 1
+￼￼￼￼10080519 6/10/2010 1438 Thu FOURTEENTH ST PENNSYLVANIA AVE NW Right Angle At Intersect 1 2 1
+￼￼￼￼10081275 6/11/2010 1815 Fri VAN NESS ST WISCONSIN AVE NW Side Swiped Within 100ft 0 2 1
+￼￼￼￼10081318 6/11/2010 2014 Fri H ST NINTH ST NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10081397 6/11/2010 2259 Fri SIXTEENTH ST ARKANSAS AVE NW Straight Hit Ped. Other 0 2 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 7 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10081545 6/12/2010 0314 Sat DIVISION AVE HAYES ST NE Other Within 100ft 0 2 1
+￼￼￼￼10081981 6/12/2010 2110 Sat SEVENTEENTH ST ISHERWOOD ST NE Side Swiped Within 100ft 1 2 1
+￼￼￼￼10083185 6/15/2010 0800 Tue FOURTEENTH ST GIRARD ST NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10083255 6/15/2010 1103 Tue TWENTY SECOND ST P ST NW Other Within 100ft 1 2 1
+￼￼￼￼10083319 6/15/2010 1342 Tue MAINE AVE TWELFTH ST SW Right Turn Hit Ped. At Intersect 0 1 1
+￼￼￼￼10084339 6/17/2010 0910 Thu THIRTEENTH ST RITTENHOUSE ST NW Straight Hit Ped. At Intersect 1 2 1
+￼￼￼￼10084652 6/17/2010 1940 Thu WISCONSIN AVE TENLEY CIR NW Other At Intersect 1 2 1
+￼￼￼￼10084759 6/17/2010 2245 Thu CONNECTICUT AVE RHODE ISLAND AVE NW Right Angle Within 100ft 1 2 1
+￼￼￼￼10085265 6/18/2010 1955 Fri WISCONSIN AVE VAN NESS ST NW Rear End At Intersect 0 2 1
+￼￼￼￼10085308 6/18/2010 2115 Fri RHODE ISLAND AVE SEVENTEENTH ST NW Other At Intersect 1 2 1
+￼￼￼￼10085310 6/18/2010 2030 Fri EIGHTH ST PEABODY ST NW Straight Hit Ped. At Intersect 1 2 1
+￼￼￼￼10086347 6/20/2010 2125 Sun THIRTEENTH ST ALABAMA AVE SE Left Turn Hit Ped. At Intersect 1 2 1
+￼￼￼￼10086575 6/21/2010 1144 Mon SOUTH DAKOTA AVE JEFFERSON ST NE Other At Intersect 1 2 1
+￼￼￼￼10086626 6/20/2010 1245 Mon EIGHTH ST UPSHUR ST NW Back Hit Moving Veh. At Intersect 0 2 1
+￼￼￼￼10086631 6/21/2010 1400 Mon EIGHTH ST H ST NE Left Turn Hit Ped. Within 100ft 1 1 1
+￼￼￼￼10086694 6/21/2010 1540 Mon FLORIDA AVE M ST NE Other At Intersect 1 2 1
+￼￼￼￼10086709 6/21/2010 1641 Mon GIRARD ST FOURTEENTH ST NW Straight Hit Ped. Not at Inter 1 2 1
+￼￼￼￼￼10086761 6/21/2010 1729 Mon FIFTEENTH ST
+MASSACHUSETTS AVE
+NW Right Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10087124 6/22/2010 1115 Tue L ST FIFTEENTH ST NW Parked Vehicle Not at Inter 1 2 1
+￼￼￼￼10087260 6/22/2010 1620 Tue FIFTEENTH ST PENNSYLVANIA AVE NW Right Angle At Intersect 0 2 1
+￼￼￼￼10087917 6/23/2010 1842 Wed VERMONT AVE THOMAS CIR NW Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10088813 6/25/2010 0905 Fri FIRST ST CONSTITUTION AVE NE Parked Vehicle Within 100ft 0 3 1
+￼￼￼￼10088958 6/25/2010 1405 Fri THIRD ST W ST NE Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10088986 6/25/2010 1530 Fri SEVENTH ST P ST NW Right Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10089060 6/25/2010 1815 Fri THIRTEENTH ST H ST NW Left Turn Hit Ped. Within 100ft 1 1 1
+￼￼￼￼10089134 6/25/2010 2025 Fri TWENTY FIRST PL M ST NE Right Angle Within 100ft 1 2 1
+￼￼￼￼10089289 6/26/2010 0055 Sat GEORGIA AVE BARRY PL NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10089457 6/26/2010 0845 Sat CONSTITUTION AVE TENTH ST NW Parked Vehicle Within 100ft 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10089662 6/26/2010 1800 Sat TWENTY FIRST ST I ST NW Side Swiped Within 100ft 0 1 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 8 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10090526 6/28/2010 1247 Mon CONSTITUTION AVE FIFTEENTH ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10091006 6/29/2010 1205 Tue TWELFTH ST IRVING ST NE Right Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10091115 6/25/2010 2230 Fri FLORIDA AVE WEST VIRGINIA AVE NE Right Angle At Intersect 1 2 1
+￼￼￼￼10091193 6/29/2010 1825 Tue M ST SEVENTEENTH ST NW Other Not at Inter 1 2 1
+￼￼￼￼￼10091626 6/30/2010 1120 Wed ELEVENTH ST
+MASSACHUSETTS AVE
+NE Head On At Intersect 1 2 1
+￼￼￼￼10091798 6/30/2010 1722 Wed NEWTON ST EIGHTEENTH ST NW Right Angle At Intersect 0 2 1
+￼￼￼￼10091971 6/30/2010 2216 Wed SIXTH ST G ST NW Side Swiped Within 100ft 1 1 1
+￼￼￼￼10092220 7/1/2010 1242 Thu S ST SEVENTH ST NW Other Within 100ft 1 1 1
+￼￼￼￼10092304 7/1/2010 1527 Thu FIFTEENTH ST FULLER ST NW Other N/A 1 2 1
+￼￼￼￼10092384 7/1/2010 1730 Thu FOURTH ST G ST SW Right Angle At Intersect 1 1 1
+￼￼￼￼10092466 7/1/2010 2002 Thu WEST VIRGINIA AVE FLORIDA AVE NE Other At Intersect 1 2 1
+￼￼￼￼10092831 7/2/2010 1407 Fri FOURTEENTH ST EUCLID ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10093283 7/3/2010 0321 Sat GEORGIA AVE HARVARD ST NW Straight Hit Ped. Within 100ft 1 2 1
+￼￼￼￼10094232 7/5/2010 2353 Mon MISSISSIPPI AVE NINTEENTH ST SE Straight Hit Ped. Not at Inter 1 1 1
+￼￼￼￼10095089 7/6/2010 1545 Tue KENYON ST IRVING ST NW Back Hit Ped. Not at Inter 0 2 1
+￼￼￼￼10095443 7/7/2010 0955 Wed NINTEENTH ST M ST NW Other Not at Inter 2 1 1
+￼￼￼￼10095601 6/30/2010 1630 Wed WISCONSIN AVE P ST NW Fixed Object Within 100ft 0 1 1
+￼￼￼￼10096091 7/8/2010 1150 Thu Q ST THIRTIETH ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10096184 7/8/2010 1410 Thu H ST JACKSON PL NW Straight Hit Ped. At Intersect 0 2 1
+￼￼￼￼10096700 7/9/2010 0820 Fri GEORGIA AVE ALLISON ST NW Side Swiped At Intersect 1 1 1
+￼￼￼￼10097641 7/10/2010 0130 Sat COLUMBIA RD ONTARIO RD NW Side Swiped At Intersect 0 2 1
+￼￼￼￼10098222 7/12/2010 0830 Mon H ST NEW YORK AVE NW Other Within 100ft 1 2 1
+￼￼￼￼10099166 7/13/2010 1958 Tue THIRTEENTH ST MARYLAND AVE NE Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10099224 7/13/2010 2205 Tue FLORIDA AVE SECOND ST NW Non-Collision Accident At Intersect 1 2 1
+￼￼￼￼10099645 7/14/2010 1805 Wed NORTH CAPITOL ST K ST BN Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10099676 7/14/2010 1905 Wed PENNSYLVANIA AVE CONSTITUTION AVE NW Other Within 100ft 1 1 1
+￼￼￼￼10100101 7/15/2010 1530 Thu PEABODY ST SEVENTH ST NW Right Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10100713 7/16/2010 1550 Fri P ST TWENTY THIRD ST NW Right Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10100859 7/16/2010 1600 Fri ELEVENTH ST W ST NW Side Swiped At Intersect 1 1 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 9 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10101645 7/17/2010 2215 Sat P ST FIFTEENTH ST NW Side Swiped Not at Inter 1 2 1
+￼￼￼￼10102785 7/20/2010 0654 Tue GEORGIA AVE IRVING ST NW Parked Vehicle Within 100ft 1 2 1
+￼￼￼￼10102839 7/20/2010 0930 Tue CONNECTICUT AVE FLORIDA AVE NW Side Swiped At Intersect 1 2 1
+￼￼￼￼10103378 7/21/2010 0632 Wed BLAGDEN AVE DECATUR ST NW Side Swiped At Intersect 0 0 1
+￼￼￼￼10103474 7/21/2010 1055 Wed BENNING RD ANACOSTIA AVE NE Right Turn Hit Ped. Private Prop 1 1 1
+￼￼￼￼10104230 7/22/2010 1630 Thu PENNSYLVANIA AVE TWENTY EIGHTH ST NW Non-Collision Accident Not at Inter 1 0 1
+￼￼￼￼10104553 7/23/2010 0719 Fri HAWAII AVE TAYLOR ST NE Left Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10105103 7/24/2010 0128 Sat NORTH CAPITOL ST H ST BN Side Swiped At Intersect 1 2 1
+￼￼￼￼10105467 7/24/2010 1745 Sat M ST THIRTY THIRD ST NW Right Angle Not at Inter 1 1 1
+￼￼￼￼10105722 7/25/2010 0310 Sun SEVENTH ST R ST NW Other At Intersect 1 2 1
+￼￼￼￼10106297 7/26/2010 1000 Mon KANSAS AVE SHERIDAN ST NE Side Swiped Within 100ft 1 2 1
+￼￼￼￼10106350 7/26/2010 1150 Mon I ST THIRTEENTH ST NW Side Swiped N/A 0 2 1
+￼￼￼￼10106355 7/25/2010 1200 Mon SEVENTH ST P ST NW Left Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10106581 7/25/2010 1830 Sun POTOMAC ST M ST NW Rear End Within 100ft 0 2 1
+￼￼￼￼10106917 7/27/2010 1330 Tue NORTH CAPITOL ST H ST BN Other Within 100ft 1 2 1
+￼￼￼￼10108151 7/29/2010 1635 Thu MASSACHUSETTS AVE SEVENTH ST NE Straight Hit Ped. Within 100ft 0 2 1
+￼￼￼￼10108158 7/29/2010 1639 Thu CONNECTICUT AVE DEVONSHIRE PL NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10108502 7/30/2010 0800 Fri FARRAGUT PL GALLATIN ST NW Other At Intersect 1 2 1
+￼￼￼￼10108706 7/30/2010 1550 Fri EAST CAPITOL ST FIFTH ST BN Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10109152 7/31/2010 1055 Sat TWENTIETH ST N ST NW Side Swiped At Intersect 0 2 1
+￼￼￼￼10109997 8/2/2010 0645 Mon INDEPENDENCE AVE FOURTH ST SW Side Swiped Not at Inter 1 2 1
+￼￼￼￼10110638 7/19/2010 1800 Mon UNIVERSITY TERR ESKRIDGE TER NW Head On At Intersect 0 2 1
+￼￼￼￼10110815 8/3/2010 1830 Tue FOURTEENTH ST ARKANSAS AVE NW Other Not at Inter 1 2 1
+￼￼￼￼10111173 8/4/2010 1211 Wed PENNSYLVANIA AVE NINTH ST SE Straight Hit Ped. Within 100ft 1 1 1
+￼￼￼￼10111341 8/4/2010 1821 Wed SIXTEENTH ST U ST NW Left Turn Hit Ped. Within 100ft 1 2 1
+￼￼￼￼10111394 8/4/2010 1918 Wed FLORIDA AVE NORTH CAPITOL ST BN Right Angle At Intersect 1 2 1
+￼￼￼￼10112407 8/6/2010 1754 Fri SOUTHERN AVE E ST SE Side Swiped At Intersect 1 2 1
+￼￼￼￼10112516 8/25/2010 1440 Wed Q ST FOURTEENTH ST NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10113079 8/7/2010 1935 Sat NEW YORK AVE FOURTH ST NW Right Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 10 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10113353 8/8/2010 0900 Sun SEVENTH ST S ST NW Other Within 100ft 1 2 1
+￼￼￼￼10114248 8/10/2010 0820 Tue MASSACHUSETTS AVE Q ST NW Head On At Intersect 1 2 1
+￼￼￼￼10115434 8/12/2010 1253 Thu RESERVOIR RD WISCONSIN AVE NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10115441 8/12/2010 1300 Thu ELEVENTH ST RHODE ISLAND AVE NW Other At Intersect 1 2 1
+￼￼￼￼10115748 8/13/2010 0001 Fri TENTH ST O ST NW Right Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10116004 8/13/2010 1430 Fri RHODE ISLAND AVE NORTH CAPITOL ST BN Right Angle At Intersect 0 2 1
+￼￼￼￼10116057 8/13/2010 1555 Fri TWELFTH ST G ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10116178 8/13/2010 1815 Fri DUPONT CIR P ST NW Other At Intersect 0 2 1
+￼￼￼￼10116320 8/13/2010 2340 Fri ALABAMA AVE STANTON RD SE Right Angle At Intersect 1 2 1
+￼￼￼￼10116658 8/14/2010 1545 Sat SEVENTH ST S ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10116702 8/14/2010 1655 Sat M ST TWENTY NINTH ST NW Left Turn Hit Veh. At Intersect 0 2 1
+￼￼￼￼10116956 8/15/2010 0105 Sun FIRST ST M ST NE Left Turn Hit Veh. At Intersect 0 2 1
+￼￼￼￼10117522 8/16/2010 0830 Mon M ST TWENTY NINTH ST NW Left Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10118277 8/17/2010 1638 Tue ARKANSAS AVE UPSHUR ST NW Right Angle Not at Inter 1 2 1
+￼￼￼￼10118729 8/18/2010 1314 Wed MASSACHUSETTS AVE R ST NW Right Angle Within 100ft 0 2 1
+￼￼￼￼10119693 8/20/2010 0857 Fri SEVENTH ST INDEPENDENCE AVE SW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10119868 8/20/2010 1440 Fri H ST FOURTEENTH ST NE Rear End At Intersect 0 2 1
+￼￼￼￼10121011 8/22/2010 1435 Sun NEBRASKA AVE FORT DR NW Right Angle Within 100ft 1 2 1
+￼￼￼￼10121070 8/22/2010 1610 Sun M ST EIGHTEENTH ST NW Parked Vehicle Not at Inter 1 2 1
+￼￼￼￼10121404 8/23/2010 1100 Mon FIRST ST V ST NW Left Turn Hit Ped. At Intersect 0 1 1
+￼￼￼￼10121836 8/24/2010 0920 Tue NEW HAMPSHIRE AVE Q ST NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10122184 8/24/2010 2020 Tue MASSACHUSETTS AVE FIFTEENTH ST NW Right Angle At Intersect 0 1 1
+￼￼￼￼10122388 8/25/2010 0906 Wed FOURTEENTH ST THOMAS CIR NW Right Angle At Intersect 1 2 1
+￼￼￼￼10122808 8/25/2010 2200 Wed EUCLID ST FOURTEENTH ST NW Rear End Not at Inter 1 2 1
+￼￼￼￼10123709 8/27/2010 1602 Fri R ST THIRTY FIRST ST NW Rear End Within 100ft 1 2 1
+￼￼￼￼￼10123818 8/27/2010 1838 Fri
+NANNIE HELEN BURROUGHS AVE
+KENILWORTH AVE NE Left Turn Hit Ped. At Intersect 0 2 1
+￼￼￼￼10124285 8/28/2010 1448 Sat WADE RD SUMNER RD SE Straight Hit Ped. At Intersect 1 2 1
+￼￼￼￼10124344 8/28/2010 1608 Sat V ST SIXTEENTH ST SE Right Turn Hit Veh. Not at Inter 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10124585 8/29/2010 0050 Sun ELEVENTH ST FLORIDA AVE NW Fixed Object At Intersect 1 1 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 11 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10125010 8/29/2010 2115 Sun Q ST
+TWENTY SEVENTH ST
+NW Unknown Not at Inter 1 1 1
+￼￼￼￼10125478 8/31/2010 2015 Wed FOURTEENTH ST FAIRMONT ST NW Head On Within 100ft 0 2 1
+￼￼￼￼￼10125966 8/31/2010 1844 Tue C ST
+NORTH CAROLINA AVE
+NE Other Within 100ft 1 2 1
+￼￼￼￼10126268 9/1/2010 1045 Wed HOLBROOK ST OATES ST NE Side Swiped Not at Inter 1 2 1
+￼￼￼￼￼10126585 9/1/2010 2048 Wed GEORGIA AVE ELDER ST NW Straight Hit Ped. At Intersect 1 1 1
+￼￼￼￼10126649 9/1/2010 2215 Wed Q ST ELEVENTH ST NW Non-Collision Accident Not at Inter 0 1 1
+￼￼￼￼￼10127230 9/3/2010 0010 Fri COLUMBIA RD QUARRY RD NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10127406 9/3/2010 1030 Fri FOURTH ST PENNSYLVANIA AVE SE Other At Intersect 1 2 1
+￼￼￼￼10128139 9/4/2010 1245 Sat GEORGIA AVE KANSAS AVE NW Right Turn Hit Ped. At Intersect 0 2 1
+￼￼￼￼10128158 8/30/2010 0830 Mon WISCONSIN AVE VEAZEY ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10128174 9/4/2010 1535 Sat M ST THIRTY FIRST ST NW Other Not at Inter 1 2 1
+￼￼￼￼10128561 9/5/2010 1107 Sun INDEPENDENCE AVE SECOND ST SE Parked Vehicle Not at Inter 1 2 1
+￼￼￼￼10129192 9/6/2010 1855 Mon SPRING RD SPRING PL NW Right Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10129700 9/7/2010 1837 Tue FOURTEENTH ST U ST NW Right Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10129752 9/7/2010 1745 Tue QUEBEC ST WISCONSIN AVE NW Other At Intersect 1 2 1
+￼￼￼￼10129946 9/8/2010 0810 Wed SECOND ST H ST NW Other At Intersect 1 2 1
+￼￼￼￼10130090 9/8/2010 1325 Wed SEVENTH ST INDIANA AVE NW Side Swiped Within 100ft 1 1 1
+￼￼￼￼10130944 9/9/2010 2036 Thu SIXTEENTH ST U ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10131450 9/10/2010 2010 Fri RHODE ISLAND AVE FIFTEENTH ST NW Side Swiped At Intersect 0 2 1
+￼￼￼￼10131470 9/10/2010 2040 Fri MASSACHUSETTS AVE COLUMBUS CIR NE Side Swiped Within 100ft 1 2 1
+￼￼￼￼10131487 9/10/2010 2145 Fri FIFTH ST RHODE ISLAND AVE NW Right Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10132870 9/13/2010 1635 Mon PINEY BRANCH RD SHERIDAN ST NW Straight Hit Ped. At Intersect 1 2 1
+￼￼￼￼10132898 9/13/2010 1730 Mon THIRTY THIRD ST N ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10133851 9/15/2010 1245 Wed WISCONSIN AVE OBSERVATORY LN NW Rear End Not at Inter 1 2 1
+￼￼￼￼10133964 9/15/2010 1645 Wed FOURTH ST L ST NW Other At Intersect 0 2 1
+￼￼￼￼10134043 9/15/2010 1830 Wed TENTH ST N ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10134222 9/15/2010 2345 Wed MINNESOTA AVE RANDLE CIR SE Right Angle At Intersect 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10135179 9/17/2010 1850 Sat F ST SIXTH ST NW Side Swiped Not at Inter 1 2 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 12 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10135699 9/18/2010 1530 Sat COLUMBIA RD SEVENTEENTH ST NW Parked Vehicle Not at Inter 1 1 1
+￼￼￼￼10136512 9/20/2010 0735 Mon SIXTH ST INDEPENDENCE AVE SE Other At Intersect 1 2 1
+￼￼￼￼￼10136728 9/20/2010 1610 Mon MAPLE VIEW PL
+MARTIN LUTHER KING AVE
+SE Left Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10136730 9/20/2010 1600 Mon THIRTY THIRD ST PROSPECT ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10137239 9/21/2010 1728 Tue TWENTIETH ST Q ST NW Other Within 100ft 1 1 1
+￼￼￼￼10137330 9/21/2010 1919 Tue MICHIGAN AVE NORTH CAPITOL ST BN Right Turn Hit Ped. Not at Inter 1 1 1
+￼￼￼￼10137446 9/21/2010 2135 Tue U ST FOURTEENTH ST NW Other Not at Inter 1 2 1
+￼￼￼￼10137529 9/22/2010 0643 Wed GEORGIA AVE VAN BUREN ST NW Rear End Not at Inter 1 2 1
+￼￼￼￼10137604 9/22/2010 0845 Wed FOURTEENTH ST DELAFIELD PL NW Right Turn Hit Veh. At Intersect 1 1 1
+￼￼￼￼10137656 9/22/2010 1220 Wed MASSACHUSETTS AVE SEVENTH ST NW Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10137825 9/22/2010 1715 Wed THIRD ST MISSOURI AVE NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10139030 9/24/2010 1900 Fri FOURTEENTH ST CORCORAN ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10139107 9/24/2010 2110 Fri SEVENTEENTH ST U ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10139417 9/25/2010 1132 Sat WISCONSIN AVE THIRTY FOURTH ST NW Right Angle N/A 1 2 1
+￼￼￼￼10139546 9/25/2010 1620 Sat COLUMBIA RD SEVENTEENTH ST NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10140282 9/27/2010 0745 Mon SIXTEENTH ST O ST NW Side Swiped Within 100ft 0 0 1
+￼￼￼￼10140408 9/27/2010 1250 Mon H ST SEVENTH ST NW Side Swiped Within 100ft 1 1 1
+￼￼￼￼10141392 9/29/2010 0745 Wed MASSACHUSETTS AVE FULTON ST NW Non-Collision Accident Within 100ft 1 2 1
+￼￼￼￼10141402 9/29/2010 0905 Wed NORTH CAPITOL ST H ST BN Side Swiped Within 100ft 1 2 1
+￼￼￼￼10141864 9/30/2010 0815 Thu NORTH CAPITOL ST BN Right Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10141928 9/28/2010 1425 Tue FOURTH ST D ST NW Other N/A 0 2 1
+￼￼￼￼10142264 9/30/2010 2340 Thu GALLOWAY ST FIRST PL NE Straight Hit Ped. Other 1 2 1
+￼￼￼￼10142340 10/1/2010 0703 Fri LOGAN CIRC RHODE ISLAND AVE NW Right Angle At Intersect 1 2 1
+￼￼￼￼10142427 10/1/2010 0940 Fri MASSACHUSETTS AVE E ST NE Side Swiped Within 100ft 1 2 1
+￼￼￼￼10142500 10/1/2010 1330 Sat O ST COLUMBIA ST NW Side Swiped Within 100ft 0 2 1
+￼￼￼￼10142557 10/1/2010 1552 Fri COLUMBIA RD EUCLID ST NW Parked Vehicle Not at Inter 1 1 1
+￼￼￼￼10142604 10/1/2010 1617 Fri HOWARD PL FOURTH ST NW Parked Vehicle Within 100ft 1 2 1
+￼￼￼￼10142977 10/2/2010 0205 Sat NINTH ST H ST NE Parked Vehicle Not at Inter 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10143168 10/2/2010 1205 Sat SEVENTH ST D ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 13 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10143553 10/3/2010 0010 Sun EUCLID ST ONTARIO RD NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10143695 10/3/2010 0900 Sun NINTH ST Q ST NW Other Not at Inter 1 3 1
+￼￼￼￼10144003 10/4/2010 0805 Mon FOURTEENTH ST RHODE ISLAND AVE NE Side Swiped Within 100ft 1 2 1
+￼￼￼￼10144470 10/5/2010 0815 Tue NEW YORK AVE NINTH ST NW Right Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10144766 10/5/2010 1837 Tue RHODE ISLAND AVE SEVENTEENTH ST NW Side Swiped Not at Inter 1 2 1
+￼￼￼￼10145272 10/6/2010 1815 Wed MT VERNON PL NINTH ST NW Rear End Within 100ft 0 2 1
+￼￼￼￼10146049 10/8/2010 0830 Fri NEW HAMPSHIRE AVE TWENTY FIRST ST NW Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10146086 10/8/2010 0830 Fri FIFTEENTH ST K ST NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10146122 10/8/2010 1135 Fri EIGHTH ST O ST NW Side Swiped Within 100ft 1 2 1
+￼￼￼￼10146184 10/8/2010 1442 Fri WISCONSIN AVE P ST NW Other At Intersect 1 2 1
+￼￼￼￼10146251 10/8/2010 1617 Fri EMERSON ST GEORGIA AVE NW Straight Hit Ped. Within 100ft 0 2 1
+￼￼￼￼10146324 10/8/2010 1830 Fri WISCONSIN AVE VAN NESS ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10146704 10/9/2010 1005 Sat MACARTHUR BLVD LAVEROCK PL NW Other Not at Inter 0 2 1
+￼￼￼￼10146804 10/9/2010 1438 Sat SEVENTEENTH ST P ST NW Left Turn Hit Veh. Not at Inter 1 2 1
+￼￼￼￼10146921 10/9/2010 1734 Sat FOURTEENTH ST CHURCH ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10147227 10/10/2010 0835 Sun M ST TWENTIETH ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10147363 10/10/2010 1650 Sun M ST THIRTY THIRD ST NW Rear End At Intersect 1 2 1
+￼￼￼￼10147743 10/11/2010 1215 Mon FIRST ST P ST NW Left Turn Hit Ped. At Intersect 1 2 1
+￼￼￼￼10148447 10/12/2010 1830 Tue R ST SIXTEENTH ST NW Right Angle Not at Inter 0 2 1
+￼￼￼￼10148528 10/12/2010 2145 Tue EIGHTH ST L ST NE Other At Intersect 0 2 1
+￼￼￼￼10148657 10/13/2010 0805 Wed THIRD ST JEFFERSON DR SW Fixed Object At Intersect 1 1 1
+￼￼￼￼10148679 10/13/2010 0910 Wed FOURTEENTH ST CRITTENDEN ST NW Other At Intersect 1 1 1
+￼￼￼￼10148888 10/13/2010 1635 Wed MASSACHUSETTS AVE TWENTY FOURTH ST NW Non-Collision Accident Within 100ft 1 1 1
+￼￼￼￼10149182 10/14/2010 1116 Thu COLUMBIA RD TWENTIETH ST NW Right Angle Not at Inter 1 2 1
+￼￼￼￼10149436 10/14/2010 1945 Thu ELEVENTH ST LAMONT ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10149695 10/15/2010 1053 Fri HARVARD ST THIRTEENTH ST NW Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼10151147 10/18/2010 0650 Mon MOUNT PLEASANT ST KENYON ST NW Other At Intersect 0 0 1
+￼￼￼￼10151163 10/18/2010 0830 Mon PENNSYLVANIA AVE TENTH ST NW Straight Hit Ped. At Intersect 1 1 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10152076 10/19/2010 2000 Tue CONNECTICUT AVE N ST NW Other Not at Inter 0 2 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 14 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10152309 10/20/2010 1000 Wed FOURTEENTH ST NEW YORK AVE NW Right Turn Hit Ped. At Intersect 1 2 1
+￼￼￼￼10152383 10/20/2010 1305 Wed CONNECTICUT AVE ALBEMARLE ST NW Non-Collision Accident Within 100ft 1 1 1
+￼￼￼￼10152413 10/20/2010 1405 Wed CONNECTICUT AVE PORTER ST NW Other Within 100ft 1 1 1
+￼￼￼￼10152574 10/20/2010 1815 Wed ARKANSAS AVE THIRTEENTH ST NW Side Swiped Within 100ft 0 2 1
+￼￼￼￼10152835 10/21/2010 0900 Thu K ST FIRST ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10153148 10/21/2010 1925 Thu FOURTEENTH ST COLORADO AVE NW Left Turn Hit Ped. At Intersect 1 2 1
+￼￼￼￼10153196 10/21/2010 2050 Thu NEW HAMPSHIRE AVE SEVENTEENTH ST NW Straight Hit Ped. At Intersect 1 1 1
+￼￼￼￼10153366 10/22/2010 0825 Fri U ST SIXTEENTH ST NW Side Swiped Not at Inter 1 2 1
+￼￼￼￼10153876 10/23/2010 0225 Sat FOURTEENTH ST I ST NW Side Swiped Not at Inter 0 2 1
+￼￼￼￼10154230 10/23/2010 1810 Sat TWELFTH ST EAST CAPITOL ST BN Right Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10154264 10/23/2010 1900 Sat THIRTY FOURTH ST NEWARK ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10154609 10/24/2010 1213 Mon HARVARD ST EIGHTEENTH ST NW Non-Collision Accident Within 100ft 1 1 1
+￼￼￼￼10154663 10/24/2010 1425 Sun POTOMAC AVE FIFTEENTH ST SE Other Within 100ft 1 1 1
+￼￼￼￼10156045 10/27/2010 0855 Wed SIXTH ST NEW YORK AVE NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10156354 10/27/2010 1854 Wed PENNSYLVANIA AVE SIXTH ST NW Other Within 100ft 1 1 1
+￼￼￼￼10156480 10/27/2010 2221 Wed COLUMBIA RD FOURTEENTH ST NW Right Angle Within 100ft 1 2 1
+￼￼￼￼10156608 10/28/2010 0813 Fri FIFTH ST G ST NW Other Not at Inter 1 2 1
+￼￼￼￼10156836 10/28/2010 1700 Thu K ST WISCONSIN AVE NW Back Hit Ped. At Intersect 1 1 1
+￼￼￼￼10156937 10/28/2010 1950 Thu M ST THIRTIETH ST NW Other Within 100ft 1 3 1
+￼￼￼￼10157258 10/29/2010 1247 Fri K ST TWENTY FIRST ST NW Side Swiped Not at Inter 1 2 1
+￼￼￼￼10157432 10/29/2010 1736 Fri FIFTEENTH ST GIRARD ST NW Other At Intersect 1 2 1
+￼￼￼￼10157591 10/29/2010 2250 Fri SIXTH ST H ST NW Right Angle Not at Inter 1 2 1
+￼￼￼￼10157869 10/30/2010 1300 Sat FOURTEENTH ST PENNSYLVANIA AVE NW Left Turn Hit Ped. Not at Inter 1 2 1
+￼￼￼￼10158057 10/30/2010 1824 Sat FIFTEENTH ST M ST NW Right Angle At Intersect 0 2 1
+￼￼￼￼10158593 10/31/2010 1610 Sun ELEVENTH ST F ST NW Left Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10158608 10/31/2010 1652 Sun G ST MINNESOTA AVE SE Side Swiped At Intersect 1 2 1
+￼￼￼￼10159971 11/3/2010 1205 Wed NORTH CAPITOL ST EVARTS ST BN Right Angle At Intersect 1 1 1
+￼￼￼￼10160060 11/3/2010 1540 Wed KANSAS AVE EIGHTH ST NW Straight Hit Ped. At Intersect 2 1 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10160747 11/4/2010 2210 Thu FOURTEENTH ST T ST NW Parked Vehicle Not at Inter 1 2 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 15 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Complaint Accident Number Date
+Week
+Time
+Day
+Accident Occured On
+Side Street
+Quad Type of Collision
+On Street
+# of # of # of Inj Veh Bcy
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10160927 11/5/2010 0910 Fri FIFTEENTH ST RHODE ISLAND AVE NW Left Turn Hit Veh. At Intersect 0 0 1
+￼￼￼￼10161254 11/5/2010 1137 Fri THIRD ST H ST NE Left Turn Hit Veh. Within 100ft 1 1 1
+￼￼￼￼10161684 11/6/2010 1928 Sat MOUNT PLEASANT ST KENYON ST NW Straight Hit Ped. Not at Inter 1 2 1
+￼￼￼￼10161827 11/7/2010 0038 Sun SIXTEENTH ST NEW YORK AVE NE Left Turn Hit Veh. At Intersect 0 2 1
+￼￼￼￼10162006 11/7/2010 1140 Sun SIXTEENTH ST U ST NW Right Angle At Intersect 1 2 1
+￼￼￼￼10162814 11/9/2010 0923 Tue GEORGIA AVE KENNEDY ST NW Other At Intersect 0 2 1
+￼￼￼￼10162914 11/9/2010 1333 Tue THIRD ST E ST NW Right Turn Hit Ped. At Intersect 1 2 1
+￼￼￼￼10163369 11/10/2010 0924 Wed FIRST ST L ST NE Side Swiped Within 100ft 1 2 1
+￼￼￼￼10163530 11/10/2010 1539 Thu EIGHTEENTH ST N ST NW Straight Hit Ped. Not at Inter 0 1 1
+￼￼￼￼￼10163916 11/11/2010 1015 Thu EIGHTH ST
+MASSACHUSETTS AVE
+NE Left Turn Hit Ped. At Intersect 0 1 1
+￼￼￼￼10163998 11/11/2010 1411 Thu FIFTEENTH ST T ST NW Right Angle At Intersect 1 1 1
+￼￼￼￼10164093 11/11/2010 1820 Thu ELEVENTH ST VERMONT AVE NW Right Turn Hit Ped. At Intersect 0 0 1
+￼￼￼￼10164434 11/12/2010 1300 Fri NEW YORK AVE FENWICK ST NE Left Turn Hit Veh. At Intersect 0 2 1
+￼￼￼￼10164463 11/12/2010 1400 Fri L ST NINTEENTH ST NW Other Within 100ft 0 2 1
+￼￼￼￼10164751 11/12/2010 2243 Fri RHODE ISLAND AVE FOURTEENTH ST NW Other Not at Inter 0 2 1
+￼￼￼￼10165845 11/15/2010 0915 Mon SEVENTEENTH ST CORCORAN ST NW Side Swiped Not at Inter 1 2 1
+￼￼￼￼10166256 11/16/2010 0521 Tue FOURTEENTH ST W ST NW Right Angle At Intersect 0 2 1
+￼￼￼￼10166306 11/16/2010 0845 Tue FIFTEENTH ST PENNSYLVANIA AVE NW Left Turn Hit Veh. Within 100ft 1 2 1
+￼￼￼￼￼10167079 11/17/2010 1805 Wed R ST
+NEW HAMPSHIRE AVE
+NW Right Turn Hit Veh. At Intersect 1 2 1
+￼￼￼￼10167096 11/17/2010 1830 Wed M ST THIRTY FIRST ST NW Straight Hit Ped. At Intersect 0 1 1
+￼￼￼￼10167103 11/17/2010 1830 Wed PENNSYLVANIA AVE TWENTY SIXTH ST NW Other Within 100ft 1 2 1
+￼￼￼￼10167507 11/18/2010 1500 Thu M ST THIRTY FIRST ST NW Other Not at Inter 0 1 1
+￼￼￼￼10167511 11/18/2010 1515 Thu VAN NESS ST FORTIETH PL NW Right Angle At Intersect 1 2 1
+￼￼￼￼10167783 11/19/2010 0054 Fri FLORIDA AVE NINTH ST NW Right Turn Hit Ped. At Intersect 1 1 1
+￼￼￼￼10167939 11/19/2010 1135 Fri E ST FOURTH ST NW Other Not at Inter 1 0 1
+￼￼￼￼10168101 11/19/2010 1730 Fri UNION STATION PLAZA E ST NE Side Swiped Within 100ft 1 1 1
+￼￼￼￼10169773 11/22/2010 2200 Mon FIRST ST S ST NW Straight Hit Ped. Within 100ft 1 2 1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼10169875 11/23/2010 0650 Tue FOURTEENTH ST V ST NW Left Turn Hit Veh. Not at Inter 0 2 1
+￼￼￼￼￼￼￼￼￼￼
+￼DC Department of Transportation - Traffic Accident Reporting and Analysis System 16 of 16 Created by Rahul Jain
+List of Query Results
+3/28/2014 10:55:25 AM
+￼￼Complaint Number
+￼Accident Date
+￼Time
+￼￼Week Day
+￼Accident Occured On
+￼Side Street
+￼Quad
+￼Type of Collision
+￼On Street
+￼# of Inj
+￼# of Veh
+￼# of Bcy
+￼10171262
+￼￼11/26/2010
+￼￼1009
+￼￼Fri
+￼￼MASSACHUSETTS AVE
+￼￼SIXTH ST
+￼￼NW
+￼￼Straight Hit Ped.
+￼￼N/A
+￼￼2
+￼￼1
+￼1
+￼10172555
+￼11/29/2010
+￼0845
+￼Mon
+￼CONNECTICUT AVE
+￼BANCROFT PL
+￼NW
+￼Other
+￼Within 100ft
+￼1
+￼1
+￼1
+￼10172717
+￼11/29/2010
+￼1535
+￼Mon
+￼ALLISON ST
+￼FOURTEENTH ST
+￼NW
+￼Right Angle
+￼At Intersect
+￼1
+￼1
+￼1
+￼10173385
+￼11/30/2010
+￼1913
+￼Tue
+￼NEBRASKA AVE
+￼CONNECTICUT AVE
+￼NW
+￼Non-Collision Accident
+￼Not at Inter
+￼1
+￼1
+￼1
+￼10174224
+￼12/2/2010
+￼1413
+￼Thu
+￼SIXTH ST
+￼CONSTITUTION AVE
+￼NE
+￼Right Turn Hit Ped.
+￼Within 100ft
+￼0
+￼1
+￼1
+￼10174405
+￼12/2/2010
+￼2000
+￼Thu
+￼FOURTEENTH ST
+￼QUINCY ST
+￼NW
+￼Left Turn Hit Veh.
+￼Within 100ft
+￼1
+￼2
+￼1
+￼10174881
+￼12/3/2010
+￼1855
+￼Fri
+￼NEW HAMPSHIRE AVE
+￼DUPONT CIR
+￼NW
+￼Other
+￼Within 100ft
+￼0
+￼0
+￼1
+￼10174882
+￼12/3/2010
+￼1905
+￼Fri
+￼TENTH ST
+￼RHODE ISLAND AVE
+￼NE
+￼Other
+￼At Intersect
+￼1
+￼1
+￼1
+￼10176256
+￼12/6/2010
+￼1819
+￼Mon
+￼NINTH ST
+￼O ST
+￼NW
+￼Left Turn Hit Ped.
+￼At Intersect
+￼1
+￼2
+￼1
+￼10176756
+￼12/7/2010
+￼1920
+￼Tue
+￼EIGHTEENTH ST
+￼N ST
+￼NW
+￼Other
+￼Within 100ft
+￼1
+￼2
+￼1
+￼10177089
+￼12/8/2010
+￼1420
+￼Wed
+￼FLORIDA AVE
+￼S ST
+￼NW
+￼Right Angle
+￼At Intersect
+￼0
+￼2
+￼1
+￼10177144
+￼12/8/2010
+￼1621
+￼Wed
+￼THIRTEENTH ST
+￼H ST
+￼NW
+￼Straight Hit Ped.
+￼At Intersect
+￼0
+￼2
+￼1
+￼10177150
+￼12/8/2010
+￼1700
+￼Wed
+￼FLORIDA AVE
+￼RHODE ISLAND AVE
+￼NW
+￼Left Turn Hit Ped.
+￼At Intersect
+￼0
+￼1
+￼1
+￼10178465
+￼12/11/2010
+￼0726
+￼Sat
+￼GEORGIA AVE
+￼BARRY PL
+￼NW
+￼Rear End
+￼Within 100ft
+￼0
+￼1
+￼1
+￼10178704
+￼12/11/2010
+￼1900
+￼Sat
+￼EUCLID ST
+￼SIXTEENTH ST
+￼NW
+￼Right Turn Hit Veh.
+￼Within 100ft
+￼1
+￼1
+￼1
+￼10178912
+￼12/12/2010
+￼0316
+￼Sun
+￼NINTEENTH ST
+￼RIGGS PL
+￼NW
+￼Head On
+￼Within 100ft
+￼1
+￼2
+￼1
+￼10179073
+￼12/12/2010
+￼1530
+￼Sun
+￼RHODE ISLAND AVE
+￼TWENTY EIGHTH ST
+￼NE
+￼Other
+￼At Intersect
+￼0
+￼1
+￼1
+￼10180099
+￼12/14/2010
+￼2205
+￼Tue
+￼SIXTEENTH ST
+￼S ST
+￼NW
+￼Right Angle
+￼At Intersect
+￼1
+￼2
+￼1
+￼10180482
+￼12/15/2010
+￼1755
+￼Wed
+￼FIFTEENTH ST
+￼RHODE ISLAND AVE
+￼NW
+￼Side Swiped
+￼Within 100ft
+￼0
+￼2
+￼1
+￼10181871
+￼12/18/2010
+￼1655
+￼Sat
+￼EUCLID ST
+￼ELEVENTH ST
+￼NW
+￼Side Swiped
+￼Within 100ft
+￼2
+￼2
+￼1
+￼10182540
+￼12/20/2010
+￼1003
+￼Mon
+￼NORTH CAPITOL ST
+￼H ST
+￼BN
+￼Parked Vehicle
+￼Not at Inter
+￼1
+￼2
+￼1
+￼10182958
+￼12/21/2010
+￼0906
+￼Tue
+￼FLORIDA AVE
+￼R ST
+￼NW
+￼Other
+￼Within 100ft
+￼1
+￼2
+￼1
+￼10185708
+￼12/28/2010
+￼￼1335
+￼Tue
+￼SIXTEENTH ST
+￼￼I ST
+￼NW
+￼Other
+￼￼At Intersect
+￼1
+￼1
+￼￼1
